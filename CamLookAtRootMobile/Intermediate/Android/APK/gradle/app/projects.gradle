@@ -1,0 +1,4 @@
+dependencies {
+	compile project(':downloader_library')
+	compile project(':permission_library')
+}

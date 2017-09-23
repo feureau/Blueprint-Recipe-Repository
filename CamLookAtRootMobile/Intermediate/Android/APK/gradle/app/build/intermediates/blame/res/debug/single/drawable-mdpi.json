@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "Y:\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "Y:\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "Y:\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\notify_panel_notification_icon_bg.png",
+        "source": "Y:\\app\\src\\main\\res\\drawable-mdpi\\notify_panel_notification_icon_bg.png"
+    }
+]

@@ -1,0 +1,3 @@
+include ':app'
+include ':downloader_library'
+include ':permission_library'

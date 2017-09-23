@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "Y:\\app\\build\\intermediates\\res\\merged\\debug\\layout\\status_bar_ongoing_event_progress_bar.xml",
+        "source": "Y:\\app\\src\\main\\res\\layout\\status_bar_ongoing_event_progress_bar.xml"
+    },
+    {
+        "merged": "Y:\\app\\build\\intermediates\\res\\merged\\debug\\layout\\downloader_progress.xml",
+        "source": "Y:\\app\\src\\main\\res\\layout\\downloader_progress.xml"
+    }
+]
