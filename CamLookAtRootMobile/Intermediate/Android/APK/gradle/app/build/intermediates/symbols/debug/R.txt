@@ -39,14 +39,14 @@ int drawable common_google_signin_btn_text_light_disabled 0x7f020011
 int drawable common_google_signin_btn_text_light_focused 0x7f020012
 int drawable common_google_signin_btn_text_light_normal 0x7f020013
 int drawable common_google_signin_btn_text_light_pressed 0x7f020014
-int drawable downloadimageh 0x7f020015
+int drawable downloadimagev 0x7f020015
 int drawable ic_plusone_medium_off_client 0x7f020016
 int drawable ic_plusone_small_off_client 0x7f020017
 int drawable ic_plusone_standard_off_client 0x7f020018
 int drawable ic_plusone_tall_off_client 0x7f020019
 int drawable icon 0x7f02001a
 int drawable notify_panel_notification_icon_bg 0x7f02001b
-int drawable splashscreen_landscape 0x7f02001c
+int drawable splashscreen_portrait 0x7f02001c
 int id adjust_height 0x7f090000
 int id adjust_width 0x7f090001
 int id appIcon 0x7f090019

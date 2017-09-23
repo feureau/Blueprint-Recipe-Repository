@@ -4,12 +4,20 @@
         "source": "Y:\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
+        "merged": "Y:\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splashscreen_portrait.png",
+        "source": "Y:\\app\\src\\main\\res\\drawable\\splashscreen_portrait.png"
+    },
+    {
         "merged": "Y:\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
         "source": "Y:\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "Y:\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
         "source": "Y:\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "Y:\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\downloadimagev.png",
+        "source": "Y:\\app\\src\\main\\res\\drawable\\downloadimagev.png"
     },
     {
         "merged": "Y:\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
@@ -28,19 +36,11 @@
         "source": "Y:\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
-        "merged": "Y:\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\downloadimageh.png",
-        "source": "Y:\\app\\src\\main\\res\\drawable\\downloadimageh.png"
-    },
-    {
         "merged": "Y:\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
         "source": "Y:\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "Y:\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
         "source": "Y:\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.8.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
-    },
-    {
-        "merged": "Y:\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splashscreen_landscape.png",
-        "source": "Y:\\app\\src\\main\\res\\drawable\\splashscreen_landscape.png"
     }
 ]

@@ -34,7 +34,7 @@
             android:debuggable="true"
             android:label="@string/app_name"
             android:launchMode="singleTask"
-            android:screenOrientation="landscape"
+            android:screenOrientation="portrait"
             android:theme="@style/UE4SplashTheme" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -48,7 +48,7 @@
             android:debuggable="true"
             android:label="@string/app_name"
             android:launchMode="singleTask"
-            android:screenOrientation="landscape"
+            android:screenOrientation="portrait"
             android:theme="@style/UE4SplashTheme" >
             <meta-data
                 android:name="android.app.lib_name"
@@ -57,7 +57,7 @@
         <activity
             android:name="com.YourCompany.CamLookAtRootMobile.DownloaderActivity"
             android:configChanges="screenSize|orientation|keyboardHidden|keyboard"
-            android:screenOrientation="landscape"
+            android:screenOrientation="portrait"
             android:theme="@style/UE4SplashTheme" />
 
         <meta-data
@@ -68,7 +68,7 @@
             android:value="0" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.bPackageDataInsideApk"
-            android:value="true" />
+            android:value="false" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.bVerifyOBBOnStartUp"
             android:value="false" />
@@ -80,7 +80,7 @@
             android:value="CamLookAtRootMobile" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.bHasOBBFiles"
-            android:value="true" />
+            android:value="false" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.BuildConfiguration"
             android:value="Development" />

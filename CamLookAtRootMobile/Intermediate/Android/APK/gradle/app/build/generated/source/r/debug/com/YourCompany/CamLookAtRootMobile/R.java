@@ -132,14 +132,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int common_google_signin_btn_text_light_focused=0x7f020012;
         public static final int common_google_signin_btn_text_light_normal=0x7f020013;
         public static final int common_google_signin_btn_text_light_pressed=0x7f020014;
-        public static final int downloadimageh=0x7f020015;
+        public static final int downloadimagev=0x7f020015;
         public static final int ic_plusone_medium_off_client=0x7f020016;
         public static final int ic_plusone_small_off_client=0x7f020017;
         public static final int ic_plusone_standard_off_client=0x7f020018;
         public static final int ic_plusone_tall_off_client=0x7f020019;
         public static final int icon=0x7f02001a;
         public static final int notify_panel_notification_icon_bg=0x7f02001b;
-        public static final int splashscreen_landscape=0x7f02001c;
+        public static final int splashscreen_portrait=0x7f02001c;
     }
     public static final class id {
         public static final int adjust_height=0x7f090000;
