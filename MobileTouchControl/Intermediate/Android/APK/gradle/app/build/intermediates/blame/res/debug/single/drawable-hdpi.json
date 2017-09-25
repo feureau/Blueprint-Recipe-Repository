@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "X:\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "X:\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "X:\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notify_panel_notification_icon_bg.png",
+        "source": "X:\\app\\src\\main\\res\\drawable-hdpi\\notify_panel_notification_icon_bg.png"
+    }
+]
