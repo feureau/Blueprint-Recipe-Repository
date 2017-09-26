@@ -48,13 +48,13 @@ MERGED from [com.android.support:support-compat:25.0.0] X:\app\build\intermediat
 activity#com.epicgames.ue4.GameActivity
 ADDED from X:\app\src\main\AndroidManifest.xml:4:5-10:16
 	android:screenOrientation
-		ADDED from X:\app\src\main\AndroidManifest.xml:4:262-299
+		ADDED from X:\app\src\main\AndroidManifest.xml:4:262-306
 	android:label
 		ADDED from X:\app\src\main\AndroidManifest.xml:4:61-93
 	android:launchMode
 		ADDED from X:\app\src\main\AndroidManifest.xml:4:230-261
 	android:debuggable
-		ADDED from X:\app\src\main\AndroidManifest.xml:4:300-325
+		ADDED from X:\app\src\main\AndroidManifest.xml:4:307-332
 	android:configChanges
 		ADDED from X:\app\src\main\AndroidManifest.xml:4:159-229
 	android:theme
@@ -118,9 +118,9 @@ ADDED from X:\app\src\main\AndroidManifest.xml:17:5-111
 	android:name
 		ADDED from X:\app\src\main\AndroidManifest.xml:17:16-73
 meta-data#com.epicgames.ue4.GameActivity.bHasOBBFiles
-ADDED from X:\app\src\main\AndroidManifest.xml:18:5-98
+ADDED from X:\app\src\main\AndroidManifest.xml:18:5-99
 	android:value
-		ADDED from X:\app\src\main\AndroidManifest.xml:18:75-95
+		ADDED from X:\app\src\main\AndroidManifest.xml:18:75-96
 	android:name
 		ADDED from X:\app\src\main\AndroidManifest.xml:18:16-74
 meta-data#com.epicgames.ue4.GameActivity.BuildConfiguration

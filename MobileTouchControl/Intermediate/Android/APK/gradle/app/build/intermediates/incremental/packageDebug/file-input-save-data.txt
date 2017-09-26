@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Sep 26 04:33:27 ICT 2017
+#Tue Sep 26 21:19:02 ICT 2017
 60.set=ANDROID_RESOURCE
 52.set=ANDROID_RESOURCE
 53.base=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -15,7 +15,7 @@
 8.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png
 99.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png
 100.set=ANDROID_RESOURCE
-52.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_pressed.9.png
+52.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_disabled.9.png
 62.base=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_
 59.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\common_google_signin_btn_text_light.xml
 69.base=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -61,7 +61,7 @@
 7.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_plusone_medium_off_client.png
 91.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png
 98.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\color\\common_google_signin_btn_text_dark.xml
-51.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_disabled.9.png
+51.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_pressed.9.png
 7.set=ANDROID_RESOURCE
 58.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png
 68.base=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -102,7 +102,7 @@
 86.set=ANDROID_RESOURCE
 78.set=NATIVE_RESOURCE
 11.base=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_
-43.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png
+43.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
 90.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png
 6.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
 97.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png
@@ -146,7 +146,7 @@
 76.set=ANDROID_RESOURCE
 68.set=ANDROID_RESOURCE
 10.base=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_
-42.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png
+42.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png
 5.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal.9.png
 49.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png
 96.file=X\:\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi-v7a\\libvrapi.so
@@ -189,8 +189,8 @@
 74.set=ANDROID_RESOURCE
 66.set=ANDROID_RESOURCE
 58.set=ANDROID_RESOURCE
-41.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
-4.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-land\\downloader_progress.xml
+41.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png
+4.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png
 48.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\downloadimageh.png
 16.base=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_
 95.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal.9.png
@@ -235,13 +235,13 @@ count=103
 56.set=ANDROID_RESOURCE
 48.set=ANDROID_RESOURCE
 40.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-tvdpi-v4\\ic_plusone_tall_off_client.png
-3.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png
+3.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-land\\downloader_progress.xml
 15.base=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_
 47.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal.9.png
 94.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal.9.png
 101.base=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_
 17.base=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_
-54.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png
+54.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png
 64.base=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_
 14.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_disabled.9.png
 24.base=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -261,7 +261,7 @@ count=103
 23.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png
 70.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal.9.png
 77.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\ic_plusone_tall_off_client.png
-30.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\common_google_signin_btn_text_dark.xml
+30.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png
 40.base=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_
 37.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png
 3.base=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -282,7 +282,7 @@ count=103
 9.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal.9.png
 100.base=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_
 102.set=ANDROID_RESOURCE
-53.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png
+53.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png
 63.base=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_
 13.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_plusone_small_off_client.png
 23.base=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_
@@ -301,7 +301,7 @@ count=103
 84.base=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_
 99.set=ANDROID_RESOURCE
 22.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\common_google_signin_btn_text_light_focused.xml
-29.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png
+29.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\common_google_signin_btn_text_dark.xml
 101.set=ANDROID_RESOURCE
 76.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png
 36.file=X\:\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_plusone_standard_off_client.png

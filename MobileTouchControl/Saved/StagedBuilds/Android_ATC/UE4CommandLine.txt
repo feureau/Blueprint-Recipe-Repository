@@ -1,1 +1,1 @@
-../../../MobileTouchControl/MobileTouchControl.uproject 
+../../../MobileTouchControl/MobileTouchControl.uproject  /Game/MainMap -Messaging -SessionId=182545224E0136D3F1867C86BBF1B481 -SessionOwner="Feureau-PC" -SessionName="Launch On Device" -iterative

@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.YourCompany.MobileTouchControl" android:installLocation="auto" android:versionCode="1" android:versionName="1.0">
   <!-- Application Definition -->
   <application android:label="@string/app_name" android:icon="@drawable/icon" android:hardwareAccelerated="true" android:hasCode="true">
-    <activity android:name="com.epicgames.ue4.GameActivity" android:label="@string/app_name" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" android:configChanges="screenSize|orientation|keyboardHidden|keyboard" android:launchMode="singleTask" android:screenOrientation="landscape" android:debuggable="true">
+    <activity android:name="com.epicgames.ue4.GameActivity" android:label="@string/app_name" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" android:configChanges="screenSize|orientation|keyboardHidden|keyboard" android:launchMode="singleTask" android:screenOrientation="reverseLandscape" android:debuggable="true">
       <meta-data android:name="android.app.lib_name" android:value="UE4" />
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
@@ -15,7 +15,7 @@
     <meta-data android:name="com.epicgames.ue4.GameActivity.bVerifyOBBOnStartUp" android:value="false" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bShouldHideUI" android:value="false" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.ProjectName" android:value="MobileTouchControl" />
-    <meta-data android:name="com.epicgames.ue4.GameActivity.bHasOBBFiles" android:value="true" />
+    <meta-data android:name="com.epicgames.ue4.GameActivity.bHasOBBFiles" android:value="false" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.BuildConfiguration" android:value="Development" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bUseExternalFilesDir" android:value="false" />
     <meta-data android:name="com.google.android.gms.games.APP_ID" android:value="@string/app_id" />

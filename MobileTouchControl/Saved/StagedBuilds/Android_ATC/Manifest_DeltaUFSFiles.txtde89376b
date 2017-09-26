@@ -1,0 +1,11 @@
+MobileTouchControl/MobileTouchControl.uproject
+Engine/GlobalShaderCache-GLSL_ES2.bin
+MobileTouchControl/AssetRegistry.bin
+MobileTouchControl/CookedIniVersion.txt
+MobileTouchControl/DevelopmentAssetRegistry.bin
+MobileTouchControl/Content/CameraTouchControl_ActorComponent_BP.uasset
+MobileTouchControl/Content/CameraTouchControl_ActorComponent_BP.uexp
+MobileTouchControl/Content/TestPawn_BP.uasset
+MobileTouchControl/Content/TestPawn_BP.uexp
+Manifest_NonUFSFiles_Android.txt
+Manifest_UFSFiles_Android.txt
