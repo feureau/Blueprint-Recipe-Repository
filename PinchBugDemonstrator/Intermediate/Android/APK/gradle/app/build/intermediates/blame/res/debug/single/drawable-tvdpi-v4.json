@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "X:\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "X:\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.8.0\\res\\drawable-tvdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "X:\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "X:\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.8.0\\res\\drawable-tvdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "X:\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "X:\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.8.0\\res\\drawable-tvdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "X:\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "X:\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.8.0\\res\\drawable-tvdpi-v4\\ic_plusone_medium_off_client.png"
+    }
+]

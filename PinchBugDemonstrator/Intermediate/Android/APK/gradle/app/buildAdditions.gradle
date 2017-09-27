@@ -1,0 +1,13 @@
+apply from: 'aar-imports.gradle'
+apply from: 'projects.gradle'
+android {
+	defaultConfig {
+		ndk {
+			abiFilter "armeabi-v7a"
+		}
+	}
+	signingConfigs {
+		release {
+		}
+	}
+}

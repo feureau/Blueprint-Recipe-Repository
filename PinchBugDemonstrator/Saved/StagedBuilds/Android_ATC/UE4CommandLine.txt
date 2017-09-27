@@ -1,0 +1,1 @@
+../../../PinchBugDemonstrator/PinchBugDemonstrator.uproject  /Game/DemonstratorMap -Messaging -SessionId=6AF6F868486FD57701D81EA5F2A01E65 -SessionOwner="Feureau-PC" -SessionName="Launch On Device" -iterative
