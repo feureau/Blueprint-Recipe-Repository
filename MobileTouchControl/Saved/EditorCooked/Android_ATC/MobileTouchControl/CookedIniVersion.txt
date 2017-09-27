@@ -55,133 +55,18 @@ Windows.Engine:WebSockets.LibWebSockets:ThreadMinimumSleepTimeInSeconds:0=0.0
 Windows.Engine:Ping:StackSize:0=1048576
 Windows.Engine:Voice:bEnabled:0=false
 Windows.Engine:Voice:bDuckingOptOut:0=true
-Windows.Engine:/Script/Engine.Engine:ConsoleClassName:0=/Script/Engine.Console
-Windows.Engine:/Script/Engine.Engine:GameViewportClientClassName:0=/Script/Engine.GameViewportClient
-Windows.Engine:/Script/Engine.Engine:LocalPlayerClassName:0=/Script/Engine.LocalPlayer
-Windows.Engine:/Script/Engine.Engine:WorldSettingsClassName:0=/Script/Engine.WorldSettings
-Windows.Engine:/Script/Engine.Engine:NavigationSystemClassName:0=/Script/Engine.NavigationSystem
-Windows.Engine:/Script/Engine.Engine:AvoidanceManagerClassName:0=/Script/Engine.AvoidanceManager
-Windows.Engine:/Script/Engine.Engine:PhysicsCollisionHandlerClassName:0=/Script/Engine.PhysicsCollisionHandler
-Windows.Engine:/Script/Engine.Engine:LevelScriptActorClassName:0=/Script/Engine.LevelScriptActor
-Windows.Engine:/Script/Engine.Engine:DefaultBlueprintBaseClassName:0=/Script/Engine.Actor
-Windows.Engine:/Script/Engine.Engine:GameUserSettingsClassName:0=/Script/Engine.GameUserSettings
-Windows.Engine:/Script/Engine.Engine:AIControllerClassName:0=/Script/AIModule.AIController
-Windows.Engine:/Script/Engine.Engine:AssetManagerClassName:0=/Script/Engine.AssetManager
 Windows.Engine:/Script/Engine.Engine:bAllowMatureLanguage:0=false
 Windows.Engine:/Script/Engine.Engine:GameEngine:0=/Script/Engine.GameEngine
 Windows.Engine:/Script/Engine.Engine:EditorEngine:0=/Script/UnrealEd.EditorEngine
 Windows.Engine:/Script/Engine.Engine:UnrealEdEngine:0=/Script/UnrealEd.UnrealEdEngine
-Windows.Engine:/Script/Engine.Engine:TinyFontName:0=/Engine/EngineFonts/RobotoTiny.RobotoTiny
-Windows.Engine:/Script/Engine.Engine:SmallFontName:0=/Engine/EngineFonts/Roboto.Roboto
-Windows.Engine:/Script/Engine.Engine:MediumFontName:0=/Engine/EngineFonts/Roboto.Roboto
-Windows.Engine:/Script/Engine.Engine:LargeFontName:0=/Engine/EngineFonts/Roboto.Roboto
-Windows.Engine:/Script/Engine.Engine:SubtitleFontName:0=/Engine/EngineFonts/Roboto.Roboto
-Windows.Engine:/Script/Engine.Engine:WireframeMaterialName:0=/Engine/EngineDebugMaterials/WireframeMaterial.WireframeMaterial
 Windows.Engine:/Script/Engine.Engine:DefaultMaterialName:0=/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial
 Windows.Engine:/Script/Engine.Engine:DefaultLightFunctionMaterialName:0=/Engine/EngineMaterials/DefaultLightFunctionMaterial.DefaultLightFunctionMaterial
-Windows.Engine:/Script/Engine.Engine:DefaultTextureName:0=/Engine/EngineResources/DefaultTexture.DefaultTexture
-Windows.Engine:/Script/Engine.Engine:DefaultDiffuseTextureName:0=/Engine/EngineMaterials/DefaultDiffuse.DefaultDiffuse
-Windows.Engine:/Script/Engine.Engine:DefaultBSPVertexTextureName:0=/Engine/EditorResources/BSPVertex.BSPVertex
-Windows.Engine:/Script/Engine.Engine:HighFrequencyNoiseTextureName:0=/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq.Good64x64TilingNoiseHighFreq
-Windows.Engine:/Script/Engine.Engine:DefaultBokehTextureName:0=/Engine/EngineMaterials/DefaultBokeh.DefaultBokeh
-Windows.Engine:/Script/Engine.Engine:DefaultBloomKernelTextureName:0=/Engine/EngineMaterials/DefaultBloomKernel.DefaultBloomKernel
-Windows.Engine:/Script/Engine.Engine:GeomMaterialName:0=/Engine/EngineDebugMaterials/GeomMaterial.GeomMaterial
-Windows.Engine:/Script/Engine.Engine:DebugMeshMaterialName:0=/Engine/EngineDebugMaterials/DebugMeshMaterial.DebugMeshMaterial
-Windows.Engine:/Script/Engine.Engine:PreIntegratedSkinBRDFTextureName:0=/Engine/EngineMaterials/PreintegratedSkinBRDF.PreintegratedSkinBRDF
-Windows.Engine:/Script/Engine.Engine:MiniFontTextureName:0=/Engine/EngineMaterials/MiniFont.MiniFont
-Windows.Engine:/Script/Engine.Engine:WeightMapPlaceholderTextureName:0=/Engine/EngineMaterials/WeightMapPlaceholderTexture.WeightMapPlaceholderTexture
-Windows.Engine:/Script/Engine.Engine:LightMapDensityTextureName:0=/Engine/EngineMaterials/DefaultWhiteGrid.DefaultWhiteGrid
-Windows.Engine:/Script/Engine.Engine:LevelColorationLitMaterialName:0=/Engine/EngineDebugMaterials/LevelColorationLitMaterial.LevelColorationLitMaterial
-Windows.Engine:/Script/Engine.Engine:LevelColorationUnlitMaterialName:0=/Engine/EngineDebugMaterials/LevelColorationUnlitMaterial.LevelColorationUnlitMaterial
-Windows.Engine:/Script/Engine.Engine:LightingTexelDensityName:0=/Engine/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.MAT_LevelColorationLitLightmapUV
-Windows.Engine:/Script/Engine.Engine:ShadedLevelColorationUnlitMaterialName:0=/Engine/EngineDebugMaterials/ShadedLevelColorationUnlitMateri.ShadedLevelColorationUnlitMateri
-Windows.Engine:/Script/Engine.Engine:ShadedLevelColorationLitMaterialName:0=/Engine/EngineDebugMaterials/ShadedLevelColorationLitMaterial.ShadedLevelColorationLitMaterial
-Windows.Engine:/Script/Engine.Engine:RemoveSurfaceMaterialName:0=/Engine/EngineMaterials/RemoveSurfaceMaterial.RemoveSurfaceMaterial
-Windows.Engine:/Script/Engine.Engine:VertexColorMaterialName:0=/Engine/EngineDebugMaterials/VertexColorMaterial.VertexColorMaterial
-Windows.Engine:/Script/Engine.Engine:VertexColorViewModeMaterialName_ColorOnly:0=/Engine/EngineDebugMaterials/VertexColorViewMode_ColorOnly.VertexColorViewMode_ColorOnly
-Windows.Engine:/Script/Engine.Engine:VertexColorViewModeMaterialName_AlphaAsColor:0=/Engine/EngineDebugMaterials/VertexColorViewMode_AlphaAsColor.VertexColorViewMode_AlphaAsColor
-Windows.Engine:/Script/Engine.Engine:VertexColorViewModeMaterialName_RedOnly:0=/Engine/EngineDebugMaterials/VertexColorViewMode_RedOnly.VertexColorViewMode_RedOnly
-Windows.Engine:/Script/Engine.Engine:VertexColorViewModeMaterialName_GreenOnly:0=/Engine/EngineDebugMaterials/VertexColorViewMode_GreenOnly.VertexColorViewMode_GreenOnly
-Windows.Engine:/Script/Engine.Engine:VertexColorViewModeMaterialName_BlueOnly:0=/Engine/EngineDebugMaterials/VertexColorViewMode_BlueOnly.VertexColorViewMode_BlueOnly
-Windows.Engine:/Script/Engine.Engine:BoneWeightMaterialName:0=/Engine/EngineDebugMaterials/BoneWeightMaterial.BoneWeightMaterial
-Windows.Engine:/Script/Engine.Engine:ClothPaintMaterialName:0=/Engine/EngineDebugMaterials/ClothMaterial.ClothMaterial
-Windows.Engine:/Script/Engine.Engine:ClothPaintMaterialWireframeName:0=/Engine/EngineDebugMaterials/ClothMaterial_WF.ClothMaterial_WF
-Windows.Engine:/Script/Engine.Engine:DebugEditorMaterialName:0=/Engine/EngineDebugMaterials/DebugEditorMaterial.DebugEditorMaterial
-Windows.Engine:/Script/Engine.Engine:InvalidLightmapSettingsMaterialName:0=/Engine/EngineMaterials/M_InvalidLightmapSettings.M_InvalidLightmapSettings
-Windows.Engine:/Script/Engine.Engine:PreviewShadowsIndicatorMaterialName:0=/Engine/EditorMaterials/PreviewShadowIndicatorMaterial.PreviewShadowIndicatorMaterial
-Windows.Engine:/Script/Engine.Engine:EditorBrushMaterialName:0=/Engine/EngineMaterials/EditorBrushMaterial.EditorBrushMaterial
-Windows.Engine:/Script/Engine.Engine:DefaultPhysMaterialName:0=/Engine/EngineMaterials/DefaultPhysicalMaterial.DefaultPhysicalMaterial
 Windows.Engine:/Script/Engine.Engine:DefaultDeferredDecalMaterialName:0=/Engine/EngineMaterials/DefaultDeferredDecalMaterial.DefaultDeferredDecalMaterial
 Windows.Engine:/Script/Engine.Engine:DefaultPostProcessMaterialName:0=/Engine/EngineMaterials/DefaultPostProcessMaterial.DefaultPostProcessMaterial
 Windows.Engine:/Script/Engine.Engine:TextureStreamingBoundsMaterialName:0=/Engine/EditorMaterials/Utilities/TextureStreamingBounds_MATInst.TextureStreamingBounds_MATInst
-Windows.Engine:/Script/Engine.Engine:ArrowMaterialName:0=/Engine/EditorMaterials/GizmoMaterial.GizmoMaterial
 Windows.Engine:/Script/Engine.Engine:bAllowHostMigration:0=false
 Windows.Engine:/Script/Engine.Engine:HostMigrationTimeout:0=15
-Windows.Engine:/Script/Engine.Engine:ParticleEventManagerClassPath:0=/Script/Engine.ParticleEventManager
 Windows.Engine:/Script/Engine.Engine:PlayOnConsoleSaveDir:0=Autosaves
-Windows.Engine:/Script/Engine.Engine:LightingOnlyBrightness:0=(R=0.3,G=0.3,B=0.3,A=1.0)
-Windows.Engine:/Script/Engine.Engine:ShaderComplexityColors:0=(R=0.0,G=1.0,B=0.127,A=1.0)
-Windows.Engine:/Script/Engine.Engine:ShaderComplexityColors:1=(R=0.0,G=1.0,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:ShaderComplexityColors:2=(R=0.046,G=0.52,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:ShaderComplexityColors:3=(R=0.215,G=0.215,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:ShaderComplexityColors:4=(R=0.52,G=0.046,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:ShaderComplexityColors:5=(R=0.7,G=0.0,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:ShaderComplexityColors:6=(R=1.0,G=0.0,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:ShaderComplexityColors:7=(R=1.0,G=0.0,B=0.5,A=1.0)
-Windows.Engine:/Script/Engine.Engine:ShaderComplexityColors:8=(R=1.0,G=0.9,B=0.9,A=1.0)
-Windows.Engine:/Script/Engine.Engine:QuadComplexityColors:0=(R=0.0,G=0.0,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:QuadComplexityColors:1=(R=0.0,G=0.0,B=0.4,A=1.0)
-Windows.Engine:/Script/Engine.Engine:QuadComplexityColors:2=(R=0.0,G=0.3,B=1.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:QuadComplexityColors:3=(R=0.0,G=0.7,B=0.4,A=1.0)
-Windows.Engine:/Script/Engine.Engine:QuadComplexityColors:4=(R=0.0,G=1.0,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:QuadComplexityColors:5=(R=0.8,G=0.8,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:QuadComplexityColors:6=(R=1.0,G=0.3,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:QuadComplexityColors:7=(R=0.7,G=0.0,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:QuadComplexityColors:8=(R=0.5,G=0.0,B=0.5,A=1.0)
-Windows.Engine:/Script/Engine.Engine:QuadComplexityColors:9=(R=0.7,G=0.3,B=0.7,A=1.0)
-Windows.Engine:/Script/Engine.Engine:QuadComplexityColors:10=(R=1.0,G=0.9,B=0.9,A=1.0)
-Windows.Engine:/Script/Engine.Engine:LightComplexityColors:0=(R=0.0,G=0.0,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:LightComplexityColors:1=(R=0.0,G=0.0,B=0.4,A=1.0)
-Windows.Engine:/Script/Engine.Engine:LightComplexityColors:2=(R=0.0,G=0.3,B=1.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:LightComplexityColors:3=(R=0.0,G=0.7,B=0.4,A=1.0)
-Windows.Engine:/Script/Engine.Engine:LightComplexityColors:4=(R=0.0,G=1.0,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:LightComplexityColors:5=(R=0.8,G=0.8,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:LightComplexityColors:6=(R=1.0,G=0.3,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:LightComplexityColors:7=(R=0.7,G=0.0,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:LightComplexityColors:8=(R=0.5,G=0.0,B=0.5,A=1.0)
-Windows.Engine:/Script/Engine.Engine:LightComplexityColors:9=(R=0.7,G=0.3,B=0.7,A=1.0)
-Windows.Engine:/Script/Engine.Engine:LightComplexityColors:10=(R=1.0,G=0.9,B=0.9,A=1.0)
-Windows.Engine:/Script/Engine.Engine:StationaryLightOverlapColors:0=(R=0.0,G=1.0,B=0.127,A=1.0)
-Windows.Engine:/Script/Engine.Engine:StationaryLightOverlapColors:1=(R=0.0,G=1.0,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:StationaryLightOverlapColors:2=(R=0.046,G=0.52,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:StationaryLightOverlapColors:3=(R=0.215,G=0.215,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:StationaryLightOverlapColors:4=(R=0.52,G=0.046,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:StationaryLightOverlapColors:5=(R=0.7,G=0.0,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:StationaryLightOverlapColors:6=(R=1.0,G=0.0,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:StationaryLightOverlapColors:7=(R=1.0,G=0.0,B=0.5,A=1.0)
-Windows.Engine:/Script/Engine.Engine:StationaryLightOverlapColors:8=(R=1.0,G=0.9,B=0.9,A=1.0)
-Windows.Engine:/Script/Engine.Engine:LODColorationColors:0=(R=1.0,G=1.0,B=1.0,A=1.0) ; white (LOD 0)
-Windows.Engine:/Script/Engine.Engine:LODColorationColors:1=(R=1.0,G=0.0,B=0.0,A=1.0) ; red (LOD 1)
-Windows.Engine:/Script/Engine.Engine:LODColorationColors:2=(R=0.0,G=1.0,B=0.0,A=1.0) ; green (etc...)
-Windows.Engine:/Script/Engine.Engine:LODColorationColors:3=(R=0.0,G=0.0,B=1.0,A=1.0) ; blue
-Windows.Engine:/Script/Engine.Engine:LODColorationColors:4=(R=1.0,G=1.0,B=0.0,A=1.0) ; yellow
-Windows.Engine:/Script/Engine.Engine:LODColorationColors:5=(R=1.0,G=0.0,B=1.0,A=1.0) ; fuchsia (bright purple)
-Windows.Engine:/Script/Engine.Engine:LODColorationColors:6=(R=0.0,G=1.0,B=1.0,A=1.0) ; cyan
-Windows.Engine:/Script/Engine.Engine:LODColorationColors:7=(R=0.5,G=0.0,B=0.5,A=1.0) ; purple
-Windows.Engine:/Script/Engine.Engine:StreamingAccuracyColors:0=(R=1.0,G=0.0,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:StreamingAccuracyColors:1=(R=0.8,G=0.5,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:StreamingAccuracyColors:2=(R=0.7,G=0.7,B=0.7,A=1.0)
-Windows.Engine:/Script/Engine.Engine:StreamingAccuracyColors:3=(R=0.0,G=0.8,B=0.5,A=1.0)
-Windows.Engine:/Script/Engine.Engine:StreamingAccuracyColors:4=(R=0.0,G=1.0,B=0.0,A=1.0)
-Windows.Engine:/Script/Engine.Engine:HLODColorationColors:0=(R=1.0,G=1.0,B=1.0,A=1.0) ; white (not part of HLOD)
-Windows.Engine:/Script/Engine.Engine:HLODColorationColors:1=(R=0.0,G=1.0,B=0.0,A=1.0) ; green (part of HLOD but being drawn outside of it)
-Windows.Engine:/Script/Engine.Engine:HLODColorationColors:2=(R=0.0,G=0.0,B=1.0,A=1.0) ; blue (HLOD level 0)
-Windows.Engine:/Script/Engine.Engine:HLODColorationColors:3=(R=1.0,G=1.0,B=0.0,A=1.0) ; yellow (HLOD level 1, etc...)
-Windows.Engine:/Script/Engine.Engine:HLODColorationColors:4=(R=1.0,G=0.0,B=1.0,A=1.0) ; purple
-Windows.Engine:/Script/Engine.Engine:HLODColorationColors:5=(R=0.0,G=1.0,B=1.0,A=1.0) ; cyan
-Windows.Engine:/Script/Engine.Engine:HLODColorationColors:6=(R=0.5,G=0.5,B=0.5,A=1.0) ; grey
-Windows.Engine:/Script/Engine.Engine:MaxPixelShaderAdditiveComplexityCount:0=2000
-Windows.Engine:/Script/Engine.Engine:MaxES2PixelShaderAdditiveComplexityCount:0=600
 Windows.Engine:/Script/Engine.Engine:bSubtitlesEnabled:0=True
 Windows.Engine:/Script/Engine.Engine:bSubtitlesForcedOff:0=false
 Windows.Engine:/Script/Engine.Engine:DefaultSoundName:0=/Engine/EngineSounds/WhiteNoise.WhiteNoise
@@ -192,22 +77,10 @@ Windows.Engine:/Script/Engine.Engine:CameraRotationThreshold:0=45.0
 Windows.Engine:/Script/Engine.Engine:CameraTranslationThreshold:0=10000
 Windows.Engine:/Script/Engine.Engine:PrimitiveProbablyVisibleTime:0=8.0
 Windows.Engine:/Script/Engine.Engine:MaxOcclusionPixelsFraction:0=0.1
-Windows.Engine:/Script/Engine.Engine:MinLightMapDensity:0=0.0
-Windows.Engine:/Script/Engine.Engine:IdealLightMapDensity:0=0.2
-Windows.Engine:/Script/Engine.Engine:MaxLightMapDensity:0=0.8
-Windows.Engine:/Script/Engine.Engine:RenderLightMapDensityGrayscaleScale:0=1.0
-Windows.Engine:/Script/Engine.Engine:RenderLightMapDensityColorScale:0=1.0
-Windows.Engine:/Script/Engine.Engine:bRenderLightMapDensityGrayscale:0=false
-Windows.Engine:/Script/Engine.Engine:LightMapDensityVertexMappedColor:0=(R=0.65,G=0.65,B=0.25,A=1.0)
-Windows.Engine:/Script/Engine.Engine:LightMapDensitySelectedColor:0=(R=1.0,G=0.2,B=1.0,A=1.0)
 Windows.Engine:/Script/Engine.Engine:bDisablePhysXHardwareSupport:0=True
 Windows.Engine:/Script/Engine.Engine:bPauseOnLossOfFocus:0=false
 Windows.Engine:/Script/Engine.Engine:MaxParticleResize:0=0
 Windows.Engine:/Script/Engine.Engine:MaxParticleResizeWarn:0=0
-Windows.Engine:/Script/Engine.Engine:NetClientTicksPerSecond:0=200
-Windows.Engine:/Script/Engine.Engine:StatColorMappings:0=(StatName="AverageFPS",ColorMap=((In=15.0,Out=(R=255)),(In=30,Out=(R=255,G=255)),(In=45.0,Out=(G=255))))
-Windows.Engine:/Script/Engine.Engine:StatColorMappings:1=(StatName="Frametime",ColorMap=((In=1.0,Out=(G=255)),(In=25.0,Out=(G=255)),(In=29.0,Out=(R=255,G=255)),(In=33.0,Out=(R=255))))
-Windows.Engine:/Script/Engine.Engine:StatColorMappings:2=(StatName="Streaming fudge factor",ColorMap=((In=0.0,Out=(G=255)),(In=1.0,Out=(G=255)),(In=2.5,Out=(R=255,G=255)),(In=5.0,Out=(R=255)),(In=10.0,Out=(R=255))))
 Windows.Engine:/Script/Engine.Engine:DisplayGamma:0=2.2
 Windows.Engine:/Script/Engine.Engine:MinDesiredFrameRate:0=35.000000
 Windows.Engine:/Script/Engine.Engine:InitialButtonRepeatDelay:0=0.2
@@ -220,8 +93,6 @@ Windows.Engine:/Script/Engine.Engine:bSmoothFrameRate:0=true
 Windows.Engine:/Script/Engine.Engine:SmoothedFrameRateRange:0=(LowerBound=(Type="ERangeBoundTypesInclusive",Value=22),UpperBound=(Type="ERangeBoundTypesExclusive",Value=62))
 Windows.Engine:/Script/Engine.Engine:bCheckForMultiplePawnsSpawnedInAFrame:0=false
 Windows.Engine:/Script/Engine.Engine:NumPawnsAllowedToBeSpawnedInAFrame:0=2
-Windows.Engine:/Script/Engine.Engine:DefaultSelectedMaterialColor:0=(R=0.84,G=0.92,B=0.02,A=1.0)
-Windows.Engine:/Script/Engine.Engine:bEnableOnScreenDebugMessages:0=true
 Windows.Engine:/Script/Engine.Engine:DurationOfErrorsAndWarningsOnHUD:0=0
 Windows.Engine:/Script/Engine.Engine:NearClipPlane:0=10.0
 Windows.Engine:/Script/Engine.Engine:bUseStreamingPause:0=false

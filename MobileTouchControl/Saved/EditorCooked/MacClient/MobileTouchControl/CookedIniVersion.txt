@@ -1690,20 +1690,7 @@ Windows.Input:/Script/EngineSettings.ConsoleSettings:HistoryColor:0=(R=180,G=180
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCommandColor:0=(B=185,G=109,R=144,A=255)
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCVarColor:0=(B=86,G=158,R=86,A=255)
 Windows.Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteFadedColor:0=(R=100,G=100,B=100,A=255)
-Windows.Editor:EditorLayouts:NullLayout:0=(\
-	"Type" "Layout",\
-	"Name" "NullLayout",\
-	"PrimaryAreaIndex" 0,\
-	"Areas" [\
-		(\
-			"SizeCoefficient" 1,\
-			"Type" "Area",\
-			"Orientation" "Orient_Horizontal",\
-			"WindowPlacement" "Placement_NoWindow",\
-			"Nodes" []\
-		)\
-	]\
-)
+Windows.Editor:EditorLayouts:NullLayout:0=( 	"Type" "Layout", 	"Name" "NullLayout", 	"PrimaryAreaIndex" 0, 	"Areas" [ 		( 			"SizeCoefficient" 1, 			"Type" "Area", 			"Orientation" "Orient_Horizontal", 			"WindowPlacement" "Placement_NoWindow", 			"Nodes" [] 		) 	] )
 Windows.Editor:Internationalization:LocalizationPaths:0=../../../Engine/Content/Localization/Editor
 Windows.Editor:Internationalization:LocalizationPaths:1=../../../Engine/Content/Localization/EditorTutorials
 Windows.Editor:Internationalization:LocalizationPaths:2=../../../Engine/Content/Localization/Keywords
