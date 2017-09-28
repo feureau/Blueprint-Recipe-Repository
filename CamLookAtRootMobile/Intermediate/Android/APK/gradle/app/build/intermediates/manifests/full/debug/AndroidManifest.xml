@@ -62,7 +62,7 @@
 
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.EngineVersion"
-            android:value="4.17.1" />
+            android:value="4.17.2" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.DepthBufferPreference"
             android:value="0" />

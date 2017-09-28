@@ -1631,7 +1631,7 @@ Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeCrashReporter:0=Fa
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:InternationalizationPreset:0=English
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:CulturesToStage:0=en
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:DefaultCulture:0=en
-Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bSkipEditorContent:0=False
+Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bSkipEditorContent:0=false
 Windows.Game:/Script/UnrealEd.ProjectPackagingSettings:bCompressed:0=True
 Windows.Game:Internationalization:LocalizationPaths:0=%GAMEDIR%Content/Localization/Game
 Windows.Game:DefaultPlayer:Name:0=Player
@@ -1716,20 +1716,6 @@ Android.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
 HTML5.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
 IOS.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
 Linux.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
-Windows.Editor:EditorLayouts:NullLayout:0=(\
-	"Type" "Layout",\
-	"Name" "NullLayout",\
-	"PrimaryAreaIndex" 0,\
-	"Areas" [\
-		(\
-			"SizeCoefficient" 1,\
-			"Type" "Area",\
-			"Orientation" "Orient_Horizontal",\
-			"WindowPlacement" "Placement_NoWindow",\
-			"Nodes" []\
-		)\
-	]\
-)
 Windows.Editor:Internationalization:LocalizationPaths:0=../../../Engine/Content/Localization/Editor
 Windows.Editor:Internationalization:LocalizationPaths:1=../../../Engine/Content/Localization/EditorTutorials
 Windows.Editor:Internationalization:LocalizationPaths:2=../../../Engine/Content/Localization/Keywords

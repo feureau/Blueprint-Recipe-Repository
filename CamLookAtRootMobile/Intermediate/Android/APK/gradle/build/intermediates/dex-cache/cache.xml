@@ -3,147 +3,129 @@
 
     <item
         is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jar="Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_c7f2c6b5fb01ad88766ae4940c86364b54018e40.jar" />
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-9.8.0_052d44d57c4b71bd75116e072542797fc6a3fee5.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_9f38c88f197395c80a6dd2423226103c0da65210.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_11e15a5f310cbc91932ad29242d5e06add43448b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_f62d5d897212e9acf9d231b3638c4ce5a352019d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="Y:\app\src\main\libs\SystemUtils.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="b55062390a4d1fd64b6267daa013eb7a003853f2">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\SystemUtils_6f0448474caf2426b0e5d781c80b9ee776308c33.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_d188608a7bc67c157cbaf291f6730e391baf7628.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.8.0_b2223de3ea8e09cc8201b420b870f9666187584b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_dff4a5a2815d405c2125ef8984f38cbccfa79e97.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.8.0_f0d48a8160ba83763328413d78cf6de000210374.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_85a979df5db1f729d1a2f3b3841aaf902c4977d0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\com.android.support-support-v13-25.0.0_ebc92e09fd77c4fefedd1a8f5cad6208342bdf35.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-9.8.0_0d4302752d6e659134d6dffd9915aee61fc000b6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\permission_library\unspecified\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="314b10a534f4f36e948048f8e4b080847b90c172">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\exploded-aar-permission_library-unspecified_df5bb8b771065fbe0dd260afb4b8069f8fe7bdab.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jar="Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.8.0_ce145bcc2263436f11b412a9ad33049516c08ee2.jar" />
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.8.0_a2d5679a91ae655f3e9e8da8c93b71f86ae3b69d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jar="Z:\app\build\intermediates\exploded-aar\downloader_library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c9afdf1e16fa0ea9204f55605c24d4afd4e450ff">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\exploded-aar-downloader_library-unspecified_31cd5d59ee01485d0ac8e31b02f95aaafc6a839c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.8.0_fc35eb1662e936a642456d636affd982ab8e965d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_709682c25ad3ffd72d2ca8fa5789a52f6865e798.jar" />
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_5edd78753c0e6e6016b4bfa5f5d0a461bd8e7200.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jar="Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_e66b9862e447da8673d884f42af54176ea598bc8.jar" />
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.8.0_03c48bd32e291c16d112bfc0ba79d73e84a15527.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_8dc71dcc2a7ca7752cbf62ec91a167ff8e8220a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.8.0_7e091cfb65a94af4e7823434ec195aa7cc508f59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_e4b2c5a1c6e9ba9c917a3bafeabd862fe2a8538d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-9.8.0_5651df6adf75ab1cf66d14cec589109f58bae744.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\app\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\com.android.support-support-v13-25.0.0_44067f29433dd79a3da3cdb139a170f4a089ff16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_fc23600e4b8a72d33d4096b9adea3160a46d5d50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_ea80e50d983a0bf559a9de4d441fb590f47c77c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_f859bb1d137f22297c721faf3f369ab70810816c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -152,133 +134,151 @@
         optimize="true"
         revision="25.0.3"
         sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_9e265056760de4f3f94469b2e0e2c80fca261402.jar" />
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_9e265056760de4f3f94469b2e0e2c80fca261402.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\downloader_library\unspecified\jars\classes.jar"
+        jar="Z:\app\build\intermediates\exploded-aar\permission_library\unspecified\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="c9afdf1e16fa0ea9204f55605c24d4afd4e450ff">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\exploded-aar-downloader_library-unspecified_90263ac2dd7b5285b4501a5d050ec59a3776c67a.jar" />
+        sha1="314b10a534f4f36e948048f8e4b080847b90c172">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\exploded-aar-permission_library-unspecified_215f11d108db05d1e518cfd21a352a1f96ea860a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jar="Z:\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_22e27245bdcaa4766467adfdf39245ee0d9e19e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\app\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_37c4a2bbe1ed3d118b96c75c34aa25bae945be49.jar" />
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_c868f84608549c3bd80a887ccf5ec9b93a8b6fcb.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jar="Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_9e792f3950c00de0ca15fbeb55c82c6e10847af7.jar" />
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-9.8.0_c25d0279468cd9b17c5208a6246fc07bb24db96e.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="Y:\app\src\main\libs\VrApi.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d524fc6aa5d81b352aa3a1493a42d37d0a9359f1">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\VrApi_3717f9fdfe4469cacf555c74b0e8da3412c62301.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.8.0_dfc08bffa017520211fa74ca228fbc7973d4d83d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_521cc763e096107d79aebb6a8afab33deae5582a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.8.0_17f1c8c97ba5fcfeba47231659f1cf1f2b1f1e67.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jar="Z:\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_4d692112b34564727b619c5bdc0a55a186fbad12.jar" />
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_794bfb911616547912042a826f1e7df620c7ddd6.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jar="Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_4176dc153ff3904cbe5cc2f085e1aff4bd967e6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-9.8.0_dc36a37aa2a40d3f52bfe202f1061834ce161ce1.jar" />
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-9.8.0_015b24a03d7686c04e032ce60fa7f533d12b44f0.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jar="Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_5b5009e68ee316613f3bdc6b1297f1b487f12ab8.jar" />
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.8.0_a3c883b62c35657550461d187ca062d727355d37.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jar="Z:\app\src\main\libs\VrApi.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-9.8.0_642b4ec8b6a88585fe19d8f86853705b94877336.jar" />
+        sha1="d524fc6aa5d81b352aa3a1493a42d37d0a9359f1">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\VrApi_441900ad0a0a6b965d906d9e4829899f3c0daf98.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jar="Z:\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-9.8.0_0e3cb9bc525cd2eb1be12bcad9440c95ac8642ee.jar" />
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_581a185e5428fb80be1558a49218bf0004eee609.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jar="Z:\app\src\main\libs\SystemUtils.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.8.0_092b658ec5db371bac421f19d67e6b0063d58ced.jar" />
+        sha1="b55062390a4d1fd64b6267daa013eb7a003853f2">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\SystemUtils_5ff58b82391f8d5cb313060f406411d40e3ef5cf.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="Y:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jar="Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
-        <dex dex="Y:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_9aa85fc977c3ed405f719de71bfaabecce7fc8bb.jar" />
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_470e5c92edc55d5af3677854eeb548e2500f815f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_79e4acd516bce243dcec95f1bca3828a6258b0b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_23bc742615ca50443c2c48e8485b551a15ed049a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_69e491c378ec466f70cd6c956101917c565cae59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="Z:\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.8.0_127e75d29cdc961241f2884c03083761f6b9d27d.jar" />
     </item>
 
 </items>

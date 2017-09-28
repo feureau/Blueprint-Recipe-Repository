@@ -11,7 +11,7 @@
       <meta-data android:name="android.app.lib_name" android:value="UE4" />
     </activity>
     <activity android:name=".DownloaderActivity" android:screenOrientation="portrait" android:configChanges="screenSize|orientation|keyboardHidden|keyboard" android:theme="@style/UE4SplashTheme" />
-    <meta-data android:name="com.epicgames.ue4.GameActivity.EngineVersion" android:value="4.17.1" />
+    <meta-data android:name="com.epicgames.ue4.GameActivity.EngineVersion" android:value="4.17.2" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.DepthBufferPreference" android:value="0" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bPackageDataInsideApk" android:value="false" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bVerifyOBBOnStartUp" android:value="false" />
