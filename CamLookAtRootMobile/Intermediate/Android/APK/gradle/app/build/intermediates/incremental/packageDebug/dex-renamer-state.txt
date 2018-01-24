@@ -1,4 +1,0 @@
-#Thu Sep 28 08:00:16 ICT 2017
-base.0=Z\:\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=Z\:\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

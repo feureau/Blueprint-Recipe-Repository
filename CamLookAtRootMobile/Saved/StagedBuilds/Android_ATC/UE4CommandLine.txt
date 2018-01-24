@@ -1,1 +1,0 @@
-../../../CamLookAtRootMobile/CamLookAtRootMobile.uproject  /Game/MainMap -Messaging -SessionId=0860DA974EB7478985E7F6A326EEBE21 -SessionOwner="Feureau-PC" -SessionName="Launch On Device" -iterative

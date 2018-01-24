@@ -1,0 +1,32 @@
+https://forums.unrealengine.com/development-discussion/android-development/41661-tip-how-to-enable-dynamic-shadows-correct-reflection-maps-on-mobile
+TIP: How to Enable Dynamic Shadows & Correct Reflection Maps on Mobile
+
+There are a lot of questions and not a lot of concrete answers swirling around about dynamic lighting on mobile. Here's how we got it to work in Mega Blast:
+
+1) Anything that receives or casts shadows must use the Default Lit material shading model* 
+2) In World Settings, under Rendering, make sure that Allow Static Lighting = TRUE. This is the key part: To get non-black shadows, some lighting needs to be baked to generate indirect lighting information
+3) Set up a Lightmass Importance Volume that encompasses your entire visible game scene 
+4) You should have two lights in your scene:
+Skylight set to STATIC
+Directional Light set to MOVEABLE
+
+5) The Directional Light should have the following settings:
+Cast Shadows = TRUE
+Cast Dynamic Shadows = TRUE
+Edit the settings in Cascaded Shadow maps to optimize performance (for instance using 1 cascade is more efficient, but mobile supports up to 2 cascades)
+
+6) The Skylight should have Cast Shadows = FALSE
+7) You can use a cube map for your skylight to light the scene by using SLS Specified Cube Map as the Source Type for the Skylight (we do this because we don't need a skymap in Mega Blast, since the sky is not directly visible)
+8) Make sure that you have some items in your scene that can cast static shadows and can have lightmaps - these can be set to non-visible at runtime if you don't want these items to be visible in game. We set up a large placeholder ground plane that generates nice bounced lighting from the "floor". We then hide this at runtime, since the "real" ground is constructed from dynamically-placed objects with real-time shadows. 
+9) Build lighting - this will bake the lighting and generate indirect lighting information that will be used to lighten your shadows
+10) Test on device
+
+Shadows should now appear correctly for objects that use the Default Lit shading model. BONUS: This method will also allow your reflection capture spheres to work correctly - reflection captures currently require that Allow Static Lighting = TRUE 
+
+Useful console commands that can also be set in Default Device Profiles for optimization:
+
+r.Shadow.MaxResolution - sets the resolution of shadow maps
+r.ShadowQuality - sets the number of cascades used (your Directional Light can be set to use 2 for instance, but each device can be set to use the same or less, or none)
+r.Shadow.RadiusThreshold - sets the screen size ratio at which shadows won't appear. If you see shadows "popping in" at certain distances, you can change this setting to make sure shadows are rendered correctly in the distance (0.02 seems to work well for us)
+
+*The Defaul Lit shading model is very expensive on non-metal devices so it should be used sparingly. For non-metal devices we use unlit materials with no cast shadows. See this post on how to display specific assets per device.
