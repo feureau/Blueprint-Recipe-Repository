@@ -1,0 +1,328 @@
+-- Merging decision tree log ---
+manifest
+ADDED from Z:\app\src\main\AndroidManifest.xml:1:1-51:12
+	package
+		ADDED from Z:\app\src\main\AndroidManifest.xml:1:70-112
+		INJECTED from Z:\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from Z:\app\src\main\AndroidManifest.xml:1:176-201
+		INJECTED from Z:\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from Z:\app\src\main\AndroidManifest.xml:1:152-175
+		INJECTED from Z:\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from Z:\app\src\main\AndroidManifest.xml:1:11-69
+	android:installLocation
+		ADDED from Z:\app\src\main\AndroidManifest.xml:1:113-151
+application
+ADDED from Z:\app\src\main\AndroidManifest.xml:3:3-37:17
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.0.4\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-games:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\11.0.4\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\11.0.4\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\11.0.4\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\11.0.4\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\11.0.4\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\11.0.4\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\11.0.4\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\11.0.4\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.4\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.4\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.4\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v13:25.2.0] Z:\app\build\intermediates\exploded-aar\com.android.support\support-v13\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] Z:\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] Z:\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] Z:\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] Z:\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] Z:\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] Z:\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:25:5-20
+	android:hasCode
+		ADDED from Z:\app\src\main\AndroidManifest.xml:3:114-136
+	android:label
+		ADDED from Z:\app\src\main\AndroidManifest.xml:3:16-48
+	android:hardwareAccelerated
+		ADDED from Z:\app\src\main\AndroidManifest.xml:3:79-113
+	android:icon
+		ADDED from Z:\app\src\main\AndroidManifest.xml:3:49-78
+activity#com.epicgames.ue4.SplashActivity
+ADDED from Z:\app\src\main\AndroidManifest.xml:4:5-9:16
+	android:screenOrientation
+		ADDED from Z:\app\src\main\AndroidManifest.xml:4:166-210
+	android:label
+		ADDED from Z:\app\src\main\AndroidManifest.xml:4:63-95
+	android:launchMode
+		ADDED from Z:\app\src\main\AndroidManifest.xml:4:134-165
+	android:debuggable
+		ADDED from Z:\app\src\main\AndroidManifest.xml:4:211-236
+	android:theme
+		ADDED from Z:\app\src\main\AndroidManifest.xml:4:96-133
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:4:15-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from Z:\app\src\main\AndroidManifest.xml:5:7-8:23
+action#android.intent.action.MAIN
+ADDED from Z:\app\src\main\AndroidManifest.xml:6:9-61
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:6:17-58
+category#android.intent.category.LAUNCHER
+ADDED from Z:\app\src\main\AndroidManifest.xml:7:9-69
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:7:19-66
+activity#com.epicgames.ue4.GameActivity
+ADDED from Z:\app\src\main\AndroidManifest.xml:10:5-12:16
+	android:screenOrientation
+		ADDED from Z:\app\src\main\AndroidManifest.xml:10:235-279
+	android:label
+		ADDED from Z:\app\src\main\AndroidManifest.xml:10:61-93
+	android:launchMode
+		ADDED from Z:\app\src\main\AndroidManifest.xml:10:203-234
+	android:debuggable
+		ADDED from Z:\app\src\main\AndroidManifest.xml:10:280-305
+	android:configChanges
+		ADDED from Z:\app\src\main\AndroidManifest.xml:10:132-202
+	android:theme
+		ADDED from Z:\app\src\main\AndroidManifest.xml:10:94-131
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:10:15-60
+meta-data#android.app.lib_name
+ADDED from Z:\app\src\main\AndroidManifest.xml:11:7-76
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:11:54-73
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:11:18-53
+activity#com.YourCompany.MobileShadow_Low.DownloaderActivity
+ADDED from Z:\app\src\main\AndroidManifest.xml:13:5-206
+	android:screenOrientation
+		ADDED from Z:\app\src\main\AndroidManifest.xml:13:50-94
+	android:configChanges
+		ADDED from Z:\app\src\main\AndroidManifest.xml:13:95-165
+	android:theme
+		ADDED from Z:\app\src\main\AndroidManifest.xml:13:166-203
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:13:15-49
+meta-data#com.epicgames.ue4.GameActivity.EngineVersion
+ADDED from Z:\app\src\main\AndroidManifest.xml:14:5-101
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:14:76-98
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:14:16-75
+meta-data#com.epicgames.ue4.GameActivity.DepthBufferPreference
+ADDED from Z:\app\src\main\AndroidManifest.xml:15:5-104
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:15:84-101
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:15:16-83
+meta-data#com.epicgames.ue4.GameActivity.bPackageDataInsideApk
+ADDED from Z:\app\src\main\AndroidManifest.xml:16:5-107
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:16:84-104
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:16:16-83
+meta-data#com.epicgames.ue4.GameActivity.bVerifyOBBOnStartUp
+ADDED from Z:\app\src\main\AndroidManifest.xml:17:5-106
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:17:82-103
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:17:16-81
+meta-data#com.epicgames.ue4.GameActivity.bShouldHideUI
+ADDED from Z:\app\src\main\AndroidManifest.xml:18:5-100
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:18:76-97
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:18:16-75
+meta-data#com.epicgames.ue4.GameActivity.ProjectName
+ADDED from Z:\app\src\main\AndroidManifest.xml:19:5-109
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:19:74-106
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:19:16-73
+meta-data#com.epicgames.ue4.GameActivity.bHasOBBFiles
+ADDED from Z:\app\src\main\AndroidManifest.xml:20:5-98
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:20:75-95
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:20:16-74
+meta-data#com.epicgames.ue4.GameActivity.BuildConfiguration
+ADDED from Z:\app\src\main\AndroidManifest.xml:21:5-111
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:21:81-108
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:21:16-80
+meta-data#com.epicgames.ue4.GameActivity.CookedFlavors
+ADDED from Z:\app\src\main\AndroidManifest.xml:22:5-99
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:22:76-96
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:22:16-75
+meta-data#com.epicgames.ue4.GameActivity.bValidateTextureFormats
+ADDED from Z:\app\src\main\AndroidManifest.xml:23:5-109
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:23:86-106
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:23:16-85
+meta-data#com.epicgames.ue4.GameActivity.bUseExternalFilesDir
+ADDED from Z:\app\src\main\AndroidManifest.xml:24:5-107
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:24:83-104
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:24:16-82
+meta-data#com.google.android.gms.games.APP_ID
+ADDED from Z:\app\src\main\AndroidManifest.xml:25:5-100
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:25:67-97
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:25:16-66
+meta-data#com.google.android.gms.version
+ADDED from Z:\app\src\main\AndroidManifest.xml:26:5-118
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.4\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:26:62-115
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:26:16-61
+activity#com.google.android.gms.ads.AdActivity
+ADDED from Z:\app\src\main\AndroidManifest.xml:27:5-180
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\11.0.4\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from Z:\app\src\main\AndroidManifest.xml:27:68-177
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\11.0.4\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:27:15-67
+service#com.YourCompany.MobileShadow_Low.OBBDownloaderService
+ADDED from Z:\app\src\main\AndroidManifest.xml:28:5-52
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:28:14-49
+receiver#com.YourCompany.MobileShadow_Low.AlarmReceiver
+ADDED from Z:\app\src\main\AndroidManifest.xml:29:5-46
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:29:15-43
+receiver#com.epicgames.ue4.LocalNotificationReceiver
+ADDED from Z:\app\src\main\AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:30:15-73
+receiver#com.epicgames.ue4.MulticastBroadcastReceiver
+ADDED from Z:\app\src\main\AndroidManifest.xml:31:5-35:16
+	android:exported
+		ADDED from Z:\app\src\main\AndroidManifest.xml:31:75-98
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:31:15-74
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from Z:\app\src\main\AndroidManifest.xml:32:7-34:23
+action#com.android.vending.INSTALL_REFERRER
+ADDED from Z:\app\src\main\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:33:17-68
+meta-data#android.max_aspect
+ADDED from Z:\app\src\main\AndroidManifest.xml:36:5-73
+	android:value
+		ADDED from Z:\app\src\main\AndroidManifest.xml:36:50-70
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:36:16-49
+uses-sdk
+ADDED from Z:\app\src\main\AndroidManifest.xml:39:3-72
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.0.4\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\11.0.4\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\11.0.4\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\11.0.4\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\11.0.4\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\11.0.4\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\11.0.4\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\11.0.4\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\11.0.4\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\11.0.4\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\11.0.4\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.4\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.0.4\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.0.4\AndroidManifest.xml:17:5-43
+MERGED from [:downloader_library:unspecified] Z:\app\build\intermediates\exploded-aar\downloader_library\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [:permission_library:unspecified] Z:\app\build\intermediates\exploded-aar\permission_library\unspecified\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:25.2.0] Z:\app\build\intermediates\exploded-aar\com.android.support\support-v13\25.2.0\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v4:25.2.0] Z:\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] Z:\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] Z:\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] Z:\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] Z:\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] Z:\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.2.0] Z:\app\build\intermediates\exploded-aar\com.android.support\support-v13\25.2.0\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		ADDED from Z:\app\src\main\AndroidManifest.xml:39:40-69
+		INJECTED from Z:\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from Z:\app\src\main\AndroidManifest.xml:39:13-39
+		INJECTED from Z:\app\src\main\AndroidManifest.xml
+		INJECTED from Z:\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from Z:\app\src\main\AndroidManifest.xml:40:3-76
+	android:glEsVersion
+		ADDED from Z:\app\src\main\AndroidManifest.xml:40:17-49
+	android:required
+		ADDED from Z:\app\src\main\AndroidManifest.xml:40:50-73
+uses-permission#android.permission.INTERNET
+ADDED from Z:\app\src\main\AndroidManifest.xml:41:3-65
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\11.0.4\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:41:20-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from Z:\app\src\main\AndroidManifest.xml:42:3-79
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:42:20-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from Z:\app\src\main\AndroidManifest.xml:43:3-77
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\11.0.4\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\11.0.4\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:43:20-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from Z:\app\src\main\AndroidManifest.xml:44:3-66
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:44:20-63
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from Z:\app\src\main\AndroidManifest.xml:45:3-71
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:45:20-68
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from Z:\app\src\main\AndroidManifest.xml:46:3-74
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:46:20-71
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from Z:\app\src\main\AndroidManifest.xml:47:3-78
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:47:20-75
+uses-permission#android.permission.VIBRATE
+ADDED from Z:\app\src\main\AndroidManifest.xml:48:3-64
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:48:20-61
+supports-gl-texture#GL_OES_compressed_ETC1_RGB8_texture
+ADDED from Z:\app\src\main\AndroidManifest.xml:50:3-77
+	android:name
+		ADDED from Z:\app\src\main\AndroidManifest.xml:50:24-74
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.0.4\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.0.4\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.0.4\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.0.4\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.0.4\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.0.4\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.0.4\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.0.4\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\11.0.4\AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.4\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.4\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.4\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] Z:\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.0.4\AndroidManifest.xml:19:19-85
