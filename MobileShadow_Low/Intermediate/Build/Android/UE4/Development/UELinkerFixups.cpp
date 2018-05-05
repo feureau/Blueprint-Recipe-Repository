@@ -1597,8 +1597,6 @@ void UELinkerFixups()
     EmptyLinkFunctionForGeneratedCodeMaterialExpressionFunctionOutput();
     extern void EmptyLinkFunctionForGeneratedCodeMaterialExpressionGetMaterialAttributes();
     EmptyLinkFunctionForGeneratedCodeMaterialExpressionGetMaterialAttributes();
-    extern void EmptyLinkFunctionForGeneratedCodeMaterialExpressionGetSharedInput();
-    EmptyLinkFunctionForGeneratedCodeMaterialExpressionGetSharedInput();
     extern void EmptyLinkFunctionForGeneratedCodeMaterialExpressionGIReplace();
     EmptyLinkFunctionForGeneratedCodeMaterialExpressionGIReplace();
     extern void EmptyLinkFunctionForGeneratedCodeMaterialExpressionIf();
@@ -1717,8 +1715,6 @@ void UELinkerFixups()
     EmptyLinkFunctionForGeneratedCodeMaterialExpressionScreenPosition();
     extern void EmptyLinkFunctionForGeneratedCodeMaterialExpressionSetMaterialAttributes();
     EmptyLinkFunctionForGeneratedCodeMaterialExpressionSetMaterialAttributes();
-    extern void EmptyLinkFunctionForGeneratedCodeMaterialExpressionSetSharedInput();
-    EmptyLinkFunctionForGeneratedCodeMaterialExpressionSetSharedInput();
     extern void EmptyLinkFunctionForGeneratedCodeMaterialExpressionSign();
     EmptyLinkFunctionForGeneratedCodeMaterialExpressionSign();
     extern void EmptyLinkFunctionForGeneratedCodeMaterialExpressionSine();
@@ -1829,8 +1825,6 @@ void UELinkerFixups()
     EmptyLinkFunctionForGeneratedCodeMaterialParameterCollectionInstance();
     extern void EmptyLinkFunctionForGeneratedCodeMaterialShared();
     EmptyLinkFunctionForGeneratedCodeMaterialShared();
-    extern void EmptyLinkFunctionForGeneratedCodeMaterialSharedInputCollection();
-    EmptyLinkFunctionForGeneratedCodeMaterialSharedInputCollection();
     extern void EmptyLinkFunctionForGeneratedCodeMatineeActor();
     EmptyLinkFunctionForGeneratedCodeMatineeActor();
     extern void EmptyLinkFunctionForGeneratedCodeMatineeActorCameraAnim();

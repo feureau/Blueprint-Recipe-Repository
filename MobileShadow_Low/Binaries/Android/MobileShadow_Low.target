@@ -7,12 +7,12 @@
 		"MajorVersion": 4,
 		"MinorVersion": 19,
 		"PatchVersion": 0,
-		"Changelist": 3898826,
+		"Changelist": 3944462,
 		"CompatibleChangelist": 0,
 		"IsLicenseeVersion": 0,
 		"IsPromotedBuild": 1,
 		"BranchName": "++UE4+Release-4.19",
-		"BuildId": "3898826"
+		"BuildId": "3944462"
 	},
 	"BuildProducts": [
 		{

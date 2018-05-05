@@ -31,6 +31,110 @@ Windows.Engine:/Script/EngineSettings.GameMapsSettings:bUseSplitscreen:0=False
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:TwoPlayerSplitscreenLayout:0=Horizontal
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:ThreePlayerSplitscreenLayout:0=FavorTop
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:bOffsetPlayerGamepadIds:0=False
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:TemplateMapInfos:0=(ThumbnailTexture=Texture2D'"/Engine/Maps/Templates/Thumbnails/Default.Default"',Map="/Engine/Maps/Templates/Template_Default")
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:TemplateMapInfos:1=(ThumbnailTexture=Texture2D'"/Engine/Maps/Templates/Thumbnails/VR-Basic.VR-Basic"',Map="/Engine/Maps/Templates/VR-Basic")
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:AutoSaveIndex:0=0
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:0=/Engine/EditorMaterials/Cross
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:1=/Engine/EditorMaterials/Cross_Mat
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:2=/Engine/EditorMaterials/PhAT_BoneSelectedMaterial
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:3=/Engine/EditorMaterials/PhAT_ElemSelectedMaterial
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:4=/Engine/EngineMaterials/PhAT_JointLimitMaterial
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:5=/Engine/EditorMaterials/PhAT_NoCollisionMaterial
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:6=/Engine/EditorMaterials/PhAT_UnselectedMaterial
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:7=/Engine/EditorMaterials/TargetIcon
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:8=/Engine/EditorMaterials/Tick
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:9=/Engine/EditorMaterials/Tick_Mat
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:10=/Engine/EditorMaterials/WidgetGridVertexColorMaterial
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:11=/Engine/EditorMaterials/WidgetGridVertexColorMaterial_Ma
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:12=/Engine/EditorMaterials/WidgetMaterial
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:13=/Engine/EditorMaterials/WidgetMaterial_Current
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:14=/Engine/EditorMaterials/WidgetMaterial_X
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:15=/Engine/EditorMaterials/WidgetMaterial_Y
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:16=/Engine/EditorMaterials/WidgetMaterial_Z
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:17=/Engine/EditorMaterials/WidgetVertexColorMaterial
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:18=/Engine/EditorMaterials/LevelGridMaterial
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:19=/Engine/EditorMaterials/TilingAAGrid
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:20=/Engine/EditorMaterials/TilingAALineBoxFiltered
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:21=/Engine/EditorMaterials/TilingAALineIntegral
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:22=/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:23=/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_OOD
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:24=/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:25=/Engine/EditorMaterials/Thumbnails/SkySphereMaterial
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:26=/Engine/EditorMeshes/EditorCube
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:27=/Engine/EditorMeshes/EditorCylinder
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:28=/Engine/EditorMeshes/EditorPlane
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:29=/Engine/EditorMeshes/EditorSkySphere
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:30=/Engine/EditorMeshes/EditorSphere
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:31=/Engine/EditorResources/Bad
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:32=/Engine/EditorResources/Bkgnd
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:33=/Engine/EditorResources/BkgndHi
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:34=/Engine/EditorResources/BSPVertex
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:35=/Engine/EditorResources/MatInstActSprite
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:36=/Engine/EditorResources/SceneManager
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:37=/Engine/EditorResources/SmallFont
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:38=/Engine/EditorResources/S_Actor
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:39=/Engine/EditorResources/S_DecalActorIcon
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:40=/Engine/EditorResources/S_TextRenderActorIcon
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:41=/Engine/EditorResources/S_Emitter
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:42=/Engine/EditorResources/S_ExpoHeightFog
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:43=/Engine/EditorResources/S_KBSJoint
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:44=/Engine/EditorResources/S_KHinge
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:45=/Engine/EditorResources/S_KPrismatic
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:46=/Engine/EditorResources/S_LevelSequence
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:47=/Engine/EditorResources/S_NavP
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:48=/Engine/EditorResources/S_Note
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:49=/Engine/EditorResources/S_Player
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:50=/Engine/EditorResources/S_RadForce
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:51=/Engine/EditorResources/S_ReflActorIcon
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:52=/Engine/EditorResources/S_Terrain
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:53=/Engine/EditorResources/S_Thruster
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:54=/Engine/EditorResources/S_Trigger
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:55=/Engine/EditorResources/S_VectorFieldVol
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:56=/Engine/EditorResources/AI/S_NavLink
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:57=/Engine/EditorResources/LightIcons/S_LightDirectional
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:58=/Engine/EditorResources/LightIcons/S_LightDirectionalMove
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:59=/Engine/EditorResources/LightIcons/S_LightError
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:60=/Engine/EditorResources/LightIcons/S_LightPoint
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:61=/Engine/EditorResources/LightIcons/S_LightPointMove
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:62=/Engine/EditorResources/LightIcons/S_LightSpot
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:63=/Engine/EditorResources/LightIcons/S_LightSpotMove
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:64=/Engine/EditorResources/Spline/T_Loft_Spline
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:65=/Engine/EngineMaterials/BlinkingCaret
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:66=/Engine/EngineMaterials/DefaultBokeh
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:67=/Engine/EngineMaterials/DefaultBloomKernel
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:68=/Engine/EngineMaterials/DefaultDeferredDecalMaterial
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:69=/Engine/EngineMaterials/DefaultDiffuse
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:70=/Engine/EngineMaterials/DefaultLightFunctionMaterial
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:71=/Engine/EngineMaterials/DefaultMaterial
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:72=/Engine/EngineMaterials/WorldGridMaterial
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:73=/Engine/EngineMaterials/DefaultNormal
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:74=/Engine/EngineMaterials/DefaultPhysicalMaterial
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:75=/Engine/EngineMaterials/DefaultWhiteGrid
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:76=/Engine/EngineMaterials/EditorBrushMaterial
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:77=/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:78=/Engine/EngineMaterials/Grid
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:79=/Engine/EngineMaterials/Grid_N
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:80=/Engine/EngineMaterials/HighResScreenshot
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:81=/Engine/EngineMaterials/HighResScreenshotMask
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:82=/Engine/EngineMaterials/HighResScreenshotCaptureRegion
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:83=/Engine/EngineMaterials/LandscapeHolePhysicalMaterial
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:84=/Engine/EngineMaterials/MiniFont
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:85=/Engine/EngineMaterials/PaperDiffuse
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:86=/Engine/EngineMaterials/PaperNormal
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:87=/Engine/EngineMaterials/PhysMat_Rubber
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:88=/Engine/EngineMaterials/PreintegratedSkinBRDF
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:89=/Engine/EngineMaterials/RemoveSurfaceMaterial
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:90=/Engine/EngineMaterials/WeightMapPlaceholderTexture
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:91=/Engine/EngineFonts/SmallFont
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:92=/Engine/EngineFonts/TinyFont
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:93=/Engine/EngineFonts/Roboto
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:94=/Engine/EngineFonts/RobotoTiny
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:95=/Engine/EngineResources/Black
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:96=/Engine/EngineResources/DefaultTexture
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:97=/Engine/EngineResources/DefaultTextureCube
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:98=/Engine/EngineResources/M_StreamingPause
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:99=/Engine/EngineResources/WhiteSquareTexture
+Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:100=/Engine/EngineResources/GradientTexture0
 Windows.Engine:URL:Protocol:0=unreal
 Windows.Engine:URL:Name:0=Player
 Windows.Engine:URL:SaveExt:0=usa
@@ -416,110 +520,6 @@ Windows.Engine:/Script/UnrealEd.EditorEngine:bSmoothFrameRate:0=false
 Windows.Engine:/Script/UnrealEd.EditorEngine:SmoothedFrameRateRange:0=(LowerBound=(Type="ERangeBoundTypesInclusive",Value=5),UpperBound=(Type="ERangeBoundTypesInclusive",Value=120))
 Windows.Engine:/Script/UnrealEd.EditorEngine:UseOldStyleMICEditorGroups:0=true
 Windows.Engine:/Script/UnrealEd.EditorEngine:InEditorGameURLOptions:0=
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:AutoSaveIndex:0=0
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:TemplateMapInfos:0=(ThumbnailTexture=Texture2D'/Engine/Maps/Templates/Thumbnails/Default.Default',Map="/Engine/Maps/Templates/Template_Default")
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:TemplateMapInfos:1=(ThumbnailTexture=Texture2D'/Engine/Maps/Templates/Thumbnails/VR-Basic.VR-Basic',Map="/Engine/Maps/Templates/VR-Basic")
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:0=/Engine/EditorMaterials/Cross
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:1=/Engine/EditorMaterials/Cross_Mat
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:2=/Engine/EditorMaterials/PhAT_BoneSelectedMaterial
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:3=/Engine/EditorMaterials/PhAT_ElemSelectedMaterial
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:4=/Engine/EngineMaterials/PhAT_JointLimitMaterial
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:5=/Engine/EditorMaterials/PhAT_NoCollisionMaterial
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:6=/Engine/EditorMaterials/PhAT_UnselectedMaterial
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:7=/Engine/EditorMaterials/TargetIcon
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:8=/Engine/EditorMaterials/Tick
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:9=/Engine/EditorMaterials/Tick_Mat
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:10=/Engine/EditorMaterials/WidgetGridVertexColorMaterial
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:11=/Engine/EditorMaterials/WidgetGridVertexColorMaterial_Ma
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:12=/Engine/EditorMaterials/WidgetMaterial
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:13=/Engine/EditorMaterials/WidgetMaterial_Current
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:14=/Engine/EditorMaterials/WidgetMaterial_X
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:15=/Engine/EditorMaterials/WidgetMaterial_Y
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:16=/Engine/EditorMaterials/WidgetMaterial_Z
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:17=/Engine/EditorMaterials/WidgetVertexColorMaterial
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:18=/Engine/EditorMaterials/LevelGridMaterial
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:19=/Engine/EditorMaterials/TilingAAGrid
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:20=/Engine/EditorMaterials/TilingAALineBoxFiltered
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:21=/Engine/EditorMaterials/TilingAALineIntegral
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:22=/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:23=/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_OOD
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:24=/Engine/EditorMaterials/Thumbnails/FloorPlaneMaterial
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:25=/Engine/EditorMaterials/Thumbnails/SkySphereMaterial
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:26=/Engine/EditorMeshes/EditorCube
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:27=/Engine/EditorMeshes/EditorCylinder
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:28=/Engine/EditorMeshes/EditorPlane
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:29=/Engine/EditorMeshes/EditorSkySphere
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:30=/Engine/EditorMeshes/EditorSphere
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:31=/Engine/EditorResources/Bad
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:32=/Engine/EditorResources/Bkgnd
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:33=/Engine/EditorResources/BkgndHi
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:34=/Engine/EditorResources/BSPVertex
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:35=/Engine/EditorResources/MatInstActSprite
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:36=/Engine/EditorResources/SceneManager
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:37=/Engine/EditorResources/SmallFont
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:38=/Engine/EditorResources/S_Actor
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:39=/Engine/EditorResources/S_DecalActorIcon
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:40=/Engine/EditorResources/S_TextRenderActorIcon
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:41=/Engine/EditorResources/S_Emitter
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:42=/Engine/EditorResources/S_ExpoHeightFog
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:43=/Engine/EditorResources/S_KBSJoint
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:44=/Engine/EditorResources/S_KHinge
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:45=/Engine/EditorResources/S_KPrismatic
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:46=/Engine/EditorResources/S_LevelSequence
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:47=/Engine/EditorResources/S_NavP
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:48=/Engine/EditorResources/S_Note
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:49=/Engine/EditorResources/S_Player
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:50=/Engine/EditorResources/S_RadForce
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:51=/Engine/EditorResources/S_ReflActorIcon
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:52=/Engine/EditorResources/S_Terrain
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:53=/Engine/EditorResources/S_Thruster
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:54=/Engine/EditorResources/S_Trigger
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:55=/Engine/EditorResources/S_VectorFieldVol
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:56=/Engine/EditorResources/AI/S_NavLink
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:57=/Engine/EditorResources/LightIcons/S_LightDirectional
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:58=/Engine/EditorResources/LightIcons/S_LightDirectionalMove
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:59=/Engine/EditorResources/LightIcons/S_LightError
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:60=/Engine/EditorResources/LightIcons/S_LightPoint
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:61=/Engine/EditorResources/LightIcons/S_LightPointMove
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:62=/Engine/EditorResources/LightIcons/S_LightSpot
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:63=/Engine/EditorResources/LightIcons/S_LightSpotMove
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:64=/Engine/EditorResources/Spline/T_Loft_Spline
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:65=/Engine/EngineMaterials/BlinkingCaret
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:66=/Engine/EngineMaterials/DefaultBokeh
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:67=/Engine/EngineMaterials/DefaultBloomKernel
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:68=/Engine/EngineMaterials/DefaultDeferredDecalMaterial
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:69=/Engine/EngineMaterials/DefaultDiffuse
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:70=/Engine/EngineMaterials/DefaultLightFunctionMaterial
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:71=/Engine/EngineMaterials/DefaultMaterial
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:72=/Engine/EngineMaterials/WorldGridMaterial
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:73=/Engine/EngineMaterials/DefaultNormal
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:74=/Engine/EngineMaterials/DefaultPhysicalMaterial
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:75=/Engine/EngineMaterials/DefaultWhiteGrid
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:76=/Engine/EngineMaterials/EditorBrushMaterial
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:77=/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:78=/Engine/EngineMaterials/Grid
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:79=/Engine/EngineMaterials/Grid_N
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:80=/Engine/EngineMaterials/HighResScreenshot
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:81=/Engine/EngineMaterials/HighResScreenshotMask
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:82=/Engine/EngineMaterials/HighResScreenshotCaptureRegion
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:83=/Engine/EngineMaterials/LandscapeHolePhysicalMaterial
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:84=/Engine/EngineMaterials/MiniFont
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:85=/Engine/EngineMaterials/PaperDiffuse
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:86=/Engine/EngineMaterials/PaperNormal
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:87=/Engine/EngineMaterials/PhysMat_Rubber
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:88=/Engine/EngineMaterials/PreintegratedSkinBRDF
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:89=/Engine/EngineMaterials/RemoveSurfaceMaterial
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:90=/Engine/EngineMaterials/WeightMapPlaceholderTexture
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:91=/Engine/EngineFonts/SmallFont
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:92=/Engine/EngineFonts/TinyFont
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:93=/Engine/EngineFonts/Roboto
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:94=/Engine/EngineFonts/RobotoTiny
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:95=/Engine/EngineResources/Black
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:96=/Engine/EngineResources/DefaultTexture
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:97=/Engine/EngineResources/DefaultTextureCube
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:98=/Engine/EngineResources/M_StreamingPause
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:99=/Engine/EngineResources/WhiteSquareTexture
-Windows.Engine:/Script/UnrealEd.UnrealEdEngine:PackagesToBeFullyLoadedAtStartup:100=/Engine/EngineResources/GradientTexture0
 Windows.Engine:DevOptions.Shaders:bAllowCompilingThroughWorkers:0=True
 Windows.Engine:DevOptions.Shaders:bAllowAsynchronousShaderCompiling:0=True
 Windows.Engine:DevOptions.Shaders:NumUnusedShaderCompilingThreads:0=3
@@ -835,6 +835,15 @@ Windows.Engine:CreateInstalledEnginePak:Local:0=(Type=FileSystem, ReadOnly=false
 Windows.Engine:CreateInstalledEnginePak:Shared:0=(Type=FileSystem, ReadOnly=false, Clean=false, Flush=false, DeleteUnused=false, UnusedFileAge=23, FoldersToClean=-1, Path=?EpicDDC, EnvPathOverride=UE-SharedDataCachePath)
 Windows.Engine:CreateInstalledEnginePak:AltShared:0=(Type=FileSystem, ReadOnly=true, Clean=false, Flush=false, DeleteUnused=false, UnusedFileAge=23, FoldersToClean=-1, Path=?EpicDDC2, EnvPathOverride=UE-SharedDataCachePath2)
 Windows.Engine:CreateInstalledEnginePak:PakWrite:0=(Type=WritePak, Filename=../../../Engine/DerivedDataCache/Compressed.ddp, Compressed=true)
+Windows.Engine:CreateInstalledEnterprisePak:MinimumDaysToKeepFile:0=7
+Windows.Engine:CreateInstalledEnterprisePak:Root:0=(Type=KeyLength, Length=120, Inner=AsyncPut)
+Windows.Engine:CreateInstalledEnterprisePak:AsyncPut:0=(Type=AsyncPut, Inner=Hierarchy)
+Windows.Engine:CreateInstalledEnterprisePak:Hierarchy:0=(Type=Hierarchical, Inner=Boot, Inner=PakWrite, Inner=Local, Inner=Shared)
+Windows.Engine:CreateInstalledEnterprisePak:Boot:0=(Type=Boot, Filename="%GAMEDIR%DerivedDataCache/Boot.ddc", MaxCacheSize=512)
+Windows.Engine:CreateInstalledEnterprisePak:Local:0=(Type=FileSystem, ReadOnly=false, Clean=false, Flush=false, PurgeTransient=true, DeleteUnused=true, UnusedFileAge=34, FoldersToClean=-1, Path=../../../Engine/DerivedDataCache, EnvPathOverride=UE-LocalDataCachePath)
+Windows.Engine:CreateInstalledEnterprisePak:Shared:0=(Type=FileSystem, ReadOnly=false, Clean=false, Flush=false, DeleteUnused=false, UnusedFileAge=23, FoldersToClean=-1, Path=?EpicDDC, EnvPathOverride=UE-SharedDataCachePath)
+Windows.Engine:CreateInstalledEnterprisePak:AltShared:0=(Type=FileSystem, ReadOnly=true, Clean=false, Flush=false, DeleteUnused=false, UnusedFileAge=23, FoldersToClean=-1, Path=?EpicDDC2, EnvPathOverride=UE-SharedDataCachePath2)
+Windows.Engine:CreateInstalledEnterprisePak:PakWrite:0=(Type=WritePak, Filename=../../../Enterprise/DerivedDataCache/Compressed.ddp, Compressed=true)
 Windows.Engine:CreateProjectCache:MinimumDaysToKeepFile:0=7
 Windows.Engine:CreateProjectCache:Root:0=(Type=KeyLength, Length=120, Inner=AsyncPut)
 Windows.Engine:CreateProjectCache:AsyncPut:0=(Type=AsyncPut, Inner=Hierarchy)
@@ -1710,6 +1719,64 @@ Windows.Game:/Script/AIModule.EnvQueryManager:QueryCountWarningThreshold:0=0
 Windows.Game:/Script/AIModule.EnvQueryManager:QueryCountWarningInterval:0=30.0
 Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:0=(PrimaryAssetType="Map",AssetBaseClass=/Script/Engine.World,bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game/Maps")))
 Windows.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:1=(PrimaryAssetType="PrimaryAssetLabel",AssetBaseClass=/Script/Engine.PrimaryAssetLabel,bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game")))
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:UsingXGE:0=False
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCategories:0=(Name="Matinee")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCategories:1=(Name="CurveEditor")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:0=(Parent="Matinee", CommandName="Matinee_PlayForward", Description="Matinee_PlayForward_Desc", ExecCommand="Matinee Play")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:1=(Parent="Matinee", CommandName="Matinee_PlayReverse", Description="Matinee_PlayReverse_Desc", ExecCommand="Matinee PlayReverse")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:2=(Parent="Matinee", CommandName="Matinee_Stop", Description="Matinee_Stop_Desc", ExecCommand="Matinee Stop")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:3=(Parent="Matinee", CommandName="Matinee_TogglePlayPause", Description="Matinee_TogglePlayPause_Desc", ExecCommand="Matinee TogglePlayPause")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:4=(Parent="Matinee", CommandName="Matinee_ZoomIn", Description="Matinee_ZoomIn_Desc", ExecCommand="Matinee ZoomIn")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:5=(Parent="Matinee", CommandName="Matinee_ZoomInAlt", Description="Matinee_ZoomInAlt_Desc", ExecCommand="Matinee ZoomIn")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:6=(Parent="Matinee", CommandName="Matinee_ZoomOut", Description="Matinee_ZoomOut_Desc", ExecCommand="Matinee ZoomOut")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:7=(Parent="Matinee", CommandName="Matinee_ZoomOutAlt", Description="Matinee_ZoomOutAlt_Desc", ExecCommand="Matinee ZoomOut")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:8=(Parent="Matinee", CommandName="Matinee_Undo", Description="Matinee_Undo_Desc", ExecCommand="Matinee Undo")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:9=(Parent="Matinee", CommandName="Matinee_Redo", Description="Matinee_Redo_Desc", ExecCommand="Matinee Redo")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:10=(Parent="Matinee", CommandName="Matinee_Copy", Description="Matinee_Copy_Desc", ExecCommand="Matinee Copy")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:11=(Parent="Matinee", CommandName="Matinee_Cut", Description="Matinee_Cut_Desc", ExecCommand="Matinee Cut")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:12=(Parent="Matinee", CommandName="Matinee_Paste", Description="Matinee_Paste_Desc", ExecCommand="Matinee Paste")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:13=(Parent="Matinee", CommandName="Matinee_DeleteSelection", Description="Matinee_DeleteSelection_Desc", ExecCommand="Matinee DeleteSelection")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:14=(Parent="Matinee", CommandName="Matinee_MarkInSection", Description="Matinee_MarkInSection_Desc", ExecCommand="Matinee MarkInSection")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:15=(Parent="Matinee", CommandName="Matinee_MarkOutSection", Description="Matinee_MarkOutSection_Desc", ExecCommand="Matinee MarkOutSection")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:16=(Parent="Matinee", CommandName="Matinee_IncrementPosition", Description="Matinee_IncrementPosition_Desc", ExecCommand="Matinee IncrementPosition")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:17=(Parent="Matinee", CommandName="Matinee_DecrementPosition", Description="Matinee_DecrementPosition_Desc", ExecCommand="Matinee DecrementPosition")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:18=(Parent="Matinee", CommandName="Matinee_MoveToNextKey", Description="Matinee_MoveToNextKey_Desc", ExecCommand="Matinee MoveToNextKey")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:19=(Parent="Matinee", CommandName="Matinee_MoveToPrevKey", Description="Matinee_MoveToPrevKey_Desc", ExecCommand="Matinee MoveToPrevKey")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:20=(Parent="Matinee", CommandName="Matinee_SplitAnimKey", Description="Matinee_SplitAnimKey_Desc", ExecCommand="Matinee SplitAnimKey")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:21=(Parent="Matinee", CommandName="Matinee_ToggleSnap", Description="Matinee_ToggleSnap_Desc", ExecCommand="Matinee ToggleSnap")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:22=(Parent="Matinee", CommandName="Matinee_MoveActiveUp", Description="Matinee_MoveActiveUp_Desc", ExecCommand="Matinee MoveActiveUp")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:23=(Parent="Matinee", CommandName="Matinee_MoveActiveDown", Description="Matinee_MoveActiveDown_Desc", ExecCommand="Matinee MoveActiveDown")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:24=(Parent="Matinee", CommandName="Matinee_AddKey", Description="Matinee_AddKey_Desc", ExecCommand="Matinee AddKey")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:25=(Parent="Matinee", CommandName="Matinee_DuplicateSelectedKeys", Description="Matinee_DuplicateSelectedKeys_Desc", ExecCommand="Matinee DuplicateSelectedKeys")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:26=(Parent="Matinee", CommandName="Matinee_CropAnimationBeginning", Description="Matinee_CropAnimationBeginning_Desc", ExecCommand="Matinee CropAnimationBeginning")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:27=(Parent="Matinee", CommandName="Matinee_CropAnimationEnd", Description="Matinee_CropAnimationEnd_Desc", ExecCommand="Matinee CropAnimationEnd")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:28=(Parent="Matinee", CommandName="Matinee_ViewFitSequence", Description="Matinee_ViewFitSequence_Desc", ExecCommand="Matinee ViewFitSequence")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:29=(Parent="Matinee", CommandName="Matinee_ViewFitToSelected", Description="Matinee_ViewFitToSelected_Desc", ExecCommand="Matinee ViewFitToSelected")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:30=(Parent="Matinee", CommandName="Matinee_ViewFitLoop", Description="Matinee_ViewFitLoop_Desc", ExecCommand="Matinee ViewFitLoop")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:31=(Parent="Matinee", CommandName="Matinee_ViewFitLoopSequence", Description="Matinee_ViewFitLoopSequence_Desc", ExecCommand="Matinee ViewFitLoopSequence")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:32=(Parent="Matinee", CommandName="Matinee_ViewEndOfTrack", Description="Matinee_ViewEndOfTrack_Desc", ExecCommand="Matinee ViewEndOfTrack")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:33=(Parent="Matinee", CommandName="Matinee_ChangeKeyInterpModeAUTO", Description="Matinee_ChangeKeyInterpModeAUTO_Desc", ExecCommand="Matinee ChangeKeyInterpModeAUTO")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:34=(Parent="Matinee", CommandName="Matinee_ChangeKeyInterpModeUSER", Description="Matinee_ChangeKeyInterpModeUSER_Desc", ExecCommand="Matinee ChangeKeyInterpModeUSER")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:35=(Parent="Matinee", CommandName="Matinee_ChangeKeyInterpModeBREAK", Description="Matinee_ChangeKeyInterpModeBREAK_Desc", ExecCommand="Matinee ChangeKeyInterpModeBREAK")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:36=(Parent="Matinee", CommandName="Matinee_ChangeKeyInterpModeLINEAR", Description="Matinee_ChangeKeyInterpModeLINEAR_Desc", ExecCommand="Matinee ChangeKeyInterpModeLINEAR")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:37=(Parent="Matinee", CommandName="Matinee_ChangeKeyInterpModeCONSTANT", Description="Matinee_ChangeKeyInterpModeCONSTANT_Desc", ExecCommand="Matinee ChangeKeyInterpModeCONSTANT")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:38=(Parent="CurveEditor", CommandName="CurveEditor_ChangeInterpModeAUTO", Description="CurveEditor_ChangeInterpModeAUTO_Desc", ExecCommand="CurveEditor ChangeInterpModeAUTO")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:39=(Parent="CurveEditor", CommandName="CurveEditor_ChangeInterpModeUSER", Description="CurveEditor_ChangeInterpModeUSER_Desc", ExecCommand="CurveEditor ChangeInterpModeUSER")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:40=(Parent="CurveEditor", CommandName="CurveEditor_ChangeInterpModeBREAK", Description="CurveEditor_ChangeInterpModeBREAK_Desc", ExecCommand="CurveEditor ChangeInterpModeBREAK")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:41=(Parent="CurveEditor", CommandName="CurveEditor_ChangeInterpModeLINEAR", Description="CurveEditor_ChangeInterpModeLINEAR_Desc", ExecCommand="CurveEditor ChangeInterpModeLINEAR")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:42=(Parent="CurveEditor", CommandName="CurveEditor_ChangeInterpModeCONSTANT", Description="CurveEditor_ChangeInterpModeCONSTANT_Desc", ExecCommand="CurveEditor ChangeInterpModeCONSTANT")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:43=(Parent="CurveEditor", CommandName="CurveEditor_FitViewHorizontally", Description="CurveEditor_FitViewHorizontally_Desc", ExecCommand="CurveEditor FitViewHorizontally")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:44=(Parent="CurveEditor", CommandName="CurveEditor_FitViewVertically", Description="CurveEditor_FitViewVertically_Desc", ExecCommand="CurveEditor FitViewVertically")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:45=(Parent="CurveEditor", CommandName="CurveEditor_FitViewToAll", Description="CurveEditor_FitViewToAll_Desc", ExecCommand="CurveEditor FitViewToAll")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:46=(Parent="CurveEditor", CommandName="CurveEditor_FitViewToSelected", Description="CurveEditor_FitViewToSelected_Desc", ExecCommand="CurveEditor FitViewToSelected")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:bExpandClassPickerClassList:0=False
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:NewAssetDefaultClasses:0=(ClassName="/Script/Engine.Actor", AssetClass="/Script/Engine.Blueprint")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:NewAssetDefaultClasses:1=(ClassName="/Script/Engine.Pawn", AssetClass="/Script/Engine.Blueprint")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:NewAssetDefaultClasses:2=(ClassName="/Script/Engine.Character", AssetClass="/Script/Engine.Blueprint")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:NewAssetDefaultClasses:3=(ClassName="/Script/Engine.PlayerController", AssetClass="/Script/Engine.Blueprint")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:NewAssetDefaultClasses:4=(ClassName="/Script/Engine.GameModeBase", AssetClass="/Script/Engine.Blueprint")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:NewAssetDefaultClasses:5=(ClassName="/Script/Engine.ActorComponent", AssetClass="/Script/Engine.Blueprint")
+Windows.Editor:/Script/UnrealEd.UnrealEdOptions:NewAssetDefaultClasses:6=(ClassName="/Script/Engine.SceneComponent", AssetClass="/Script/Engine.Blueprint")
 Windows.Editor:Internationalization:LocalizationPaths:0=../../../Engine/Content/Localization/Editor
 Windows.Editor:Internationalization:LocalizationPaths:1=../../../Engine/Content/Localization/EditorTutorials
 Windows.Editor:Internationalization:LocalizationPaths:2=../../../Engine/Content/Localization/Keywords
@@ -1819,63 +1886,6 @@ Windows.Editor:BlueprintEditor.Menu:BlueprintHiddenFields:4=/Script/Engine.Scene
 Windows.Editor:UnrealEd.MeshPaint:MinBrushRadius:0=1
 Windows.Editor:UnrealEd.MeshPaint:MaxBrushRadius:0=256
 Windows.Editor:UnrealEd.HitProxy:HitProxySize:0=5
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCategories:0=(Name="Matinee")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCategories:1=(Name="CurveEditor")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:0=(Parent="Matinee", CommandName="Matinee_PlayForward", Description="Matinee_PlayForward_Desc", ExecCommand="Matinee Play")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:1=(Parent="Matinee", CommandName="Matinee_PlayReverse", Description="Matinee_PlayReverse_Desc", ExecCommand="Matinee PlayReverse")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:2=(Parent="Matinee", CommandName="Matinee_Stop", Description="Matinee_Stop_Desc", ExecCommand="Matinee Stop")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:3=(Parent="Matinee", CommandName="Matinee_TogglePlayPause", Description="Matinee_TogglePlayPause_Desc", ExecCommand="Matinee TogglePlayPause")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:4=(Parent="Matinee", CommandName="Matinee_ZoomIn", Description="Matinee_ZoomIn_Desc", ExecCommand="Matinee ZoomIn")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:5=(Parent="Matinee", CommandName="Matinee_ZoomInAlt", Description="Matinee_ZoomInAlt_Desc", ExecCommand="Matinee ZoomIn")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:6=(Parent="Matinee", CommandName="Matinee_ZoomOut", Description="Matinee_ZoomOut_Desc", ExecCommand="Matinee ZoomOut")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:7=(Parent="Matinee", CommandName="Matinee_ZoomOutAlt", Description="Matinee_ZoomOutAlt_Desc", ExecCommand="Matinee ZoomOut")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:8=(Parent="Matinee", CommandName="Matinee_Undo", Description="Matinee_Undo_Desc", ExecCommand="Matinee Undo")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:9=(Parent="Matinee", CommandName="Matinee_Redo", Description="Matinee_Redo_Desc", ExecCommand="Matinee Redo")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:10=(Parent="Matinee", CommandName="Matinee_Copy", Description="Matinee_Copy_Desc", ExecCommand="Matinee Copy")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:11=(Parent="Matinee", CommandName="Matinee_Cut", Description="Matinee_Cut_Desc", ExecCommand="Matinee Cut")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:12=(Parent="Matinee", CommandName="Matinee_Paste", Description="Matinee_Paste_Desc", ExecCommand="Matinee Paste")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:13=(Parent="Matinee", CommandName="Matinee_DeleteSelection", Description="Matinee_DeleteSelection_Desc", ExecCommand="Matinee DeleteSelection")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:14=(Parent="Matinee", CommandName="Matinee_MarkInSection", Description="Matinee_MarkInSection_Desc", ExecCommand="Matinee MarkInSection")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:15=(Parent="Matinee", CommandName="Matinee_MarkOutSection", Description="Matinee_MarkOutSection_Desc", ExecCommand="Matinee MarkOutSection")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:16=(Parent="Matinee", CommandName="Matinee_IncrementPosition", Description="Matinee_IncrementPosition_Desc", ExecCommand="Matinee IncrementPosition")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:17=(Parent="Matinee", CommandName="Matinee_DecrementPosition", Description="Matinee_DecrementPosition_Desc", ExecCommand="Matinee DecrementPosition")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:18=(Parent="Matinee", CommandName="Matinee_MoveToNextKey", Description="Matinee_MoveToNextKey_Desc", ExecCommand="Matinee MoveToNextKey")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:19=(Parent="Matinee", CommandName="Matinee_MoveToPrevKey", Description="Matinee_MoveToPrevKey_Desc", ExecCommand="Matinee MoveToPrevKey")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:20=(Parent="Matinee", CommandName="Matinee_SplitAnimKey", Description="Matinee_SplitAnimKey_Desc", ExecCommand="Matinee SplitAnimKey")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:21=(Parent="Matinee", CommandName="Matinee_ToggleSnap", Description="Matinee_ToggleSnap_Desc", ExecCommand="Matinee ToggleSnap")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:22=(Parent="Matinee", CommandName="Matinee_MoveActiveUp", Description="Matinee_MoveActiveUp_Desc", ExecCommand="Matinee MoveActiveUp")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:23=(Parent="Matinee", CommandName="Matinee_MoveActiveDown", Description="Matinee_MoveActiveDown_Desc", ExecCommand="Matinee MoveActiveDown")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:24=(Parent="Matinee", CommandName="Matinee_AddKey", Description="Matinee_AddKey_Desc", ExecCommand="Matinee AddKey")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:25=(Parent="Matinee", CommandName="Matinee_DuplicateSelectedKeys", Description="Matinee_DuplicateSelectedKeys_Desc", ExecCommand="Matinee DuplicateSelectedKeys")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:26=(Parent="Matinee", CommandName="Matinee_CropAnimationBeginning", Description="Matinee_CropAnimationBeginning_Desc", ExecCommand="Matinee CropAnimationBeginning")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:27=(Parent="Matinee", CommandName="Matinee_CropAnimationEnd", Description="Matinee_CropAnimationEnd_Desc", ExecCommand="Matinee CropAnimationEnd")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:28=(Parent="Matinee", CommandName="Matinee_ViewFitSequence", Description="Matinee_ViewFitSequence_Desc", ExecCommand="Matinee ViewFitSequence")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:29=(Parent="Matinee", CommandName="Matinee_ViewFitToSelected", Description="Matinee_ViewFitToSelected_Desc", ExecCommand="Matinee ViewFitToSelected")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:30=(Parent="Matinee", CommandName="Matinee_ViewFitLoop", Description="Matinee_ViewFitLoop_Desc", ExecCommand="Matinee ViewFitLoop")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:31=(Parent="Matinee", CommandName="Matinee_ViewFitLoopSequence", Description="Matinee_ViewFitLoopSequence_Desc", ExecCommand="Matinee ViewFitLoopSequence")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:32=(Parent="Matinee", CommandName="Matinee_ViewEndOfTrack", Description="Matinee_ViewEndOfTrack_Desc", ExecCommand="Matinee ViewEndOfTrack")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:33=(Parent="Matinee", CommandName="Matinee_ChangeKeyInterpModeAUTO", Description="Matinee_ChangeKeyInterpModeAUTO_Desc", ExecCommand="Matinee ChangeKeyInterpModeAUTO")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:34=(Parent="Matinee", CommandName="Matinee_ChangeKeyInterpModeUSER", Description="Matinee_ChangeKeyInterpModeUSER_Desc", ExecCommand="Matinee ChangeKeyInterpModeUSER")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:35=(Parent="Matinee", CommandName="Matinee_ChangeKeyInterpModeBREAK", Description="Matinee_ChangeKeyInterpModeBREAK_Desc", ExecCommand="Matinee ChangeKeyInterpModeBREAK")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:36=(Parent="Matinee", CommandName="Matinee_ChangeKeyInterpModeLINEAR", Description="Matinee_ChangeKeyInterpModeLINEAR_Desc", ExecCommand="Matinee ChangeKeyInterpModeLINEAR")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:37=(Parent="Matinee", CommandName="Matinee_ChangeKeyInterpModeCONSTANT", Description="Matinee_ChangeKeyInterpModeCONSTANT_Desc", ExecCommand="Matinee ChangeKeyInterpModeCONSTANT")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:38=(Parent="CurveEditor", CommandName="CurveEditor_ChangeInterpModeAUTO", Description="CurveEditor_ChangeInterpModeAUTO_Desc", ExecCommand="CurveEditor ChangeInterpModeAUTO")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:39=(Parent="CurveEditor", CommandName="CurveEditor_ChangeInterpModeUSER", Description="CurveEditor_ChangeInterpModeUSER_Desc", ExecCommand="CurveEditor ChangeInterpModeUSER")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:40=(Parent="CurveEditor", CommandName="CurveEditor_ChangeInterpModeBREAK", Description="CurveEditor_ChangeInterpModeBREAK_Desc", ExecCommand="CurveEditor ChangeInterpModeBREAK")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:41=(Parent="CurveEditor", CommandName="CurveEditor_ChangeInterpModeLINEAR", Description="CurveEditor_ChangeInterpModeLINEAR_Desc", ExecCommand="CurveEditor ChangeInterpModeLINEAR")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:42=(Parent="CurveEditor", CommandName="CurveEditor_ChangeInterpModeCONSTANT", Description="CurveEditor_ChangeInterpModeCONSTANT_Desc", ExecCommand="CurveEditor ChangeInterpModeCONSTANT")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:43=(Parent="CurveEditor", CommandName="CurveEditor_FitViewHorizontally", Description="CurveEditor_FitViewHorizontally_Desc", ExecCommand="CurveEditor FitViewHorizontally")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:44=(Parent="CurveEditor", CommandName="CurveEditor_FitViewVertically", Description="CurveEditor_FitViewVertically_Desc", ExecCommand="CurveEditor FitViewVertically")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:45=(Parent="CurveEditor", CommandName="CurveEditor_FitViewToAll", Description="CurveEditor_FitViewToAll_Desc", ExecCommand="CurveEditor FitViewToAll")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:EditorCommands:46=(Parent="CurveEditor", CommandName="CurveEditor_FitViewToSelected", Description="CurveEditor_FitViewToSelected_Desc", ExecCommand="CurveEditor FitViewToSelected")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:bExpandClassPickerClassList:0=False
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:NewAssetDefaultClasses:0=(ClassName="/Script/Engine.Actor", AssetClass="/Script/Engine.Blueprint")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:NewAssetDefaultClasses:1=(ClassName="/Script/Engine.Pawn", AssetClass="/Script/Engine.Blueprint")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:NewAssetDefaultClasses:2=(ClassName="/Script/Engine.Character", AssetClass="/Script/Engine.Blueprint")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:NewAssetDefaultClasses:3=(ClassName="/Script/Engine.PlayerController", AssetClass="/Script/Engine.Blueprint")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:NewAssetDefaultClasses:4=(ClassName="/Script/Engine.GameModeBase", AssetClass="/Script/Engine.Blueprint")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:NewAssetDefaultClasses:5=(ClassName="/Script/Engine.ActorComponent", AssetClass="/Script/Engine.Blueprint")
-Windows.Editor:/Script/UnrealEd.UnrealEdOptions:NewAssetDefaultClasses:6=(ClassName="/Script/Engine.SceneComponent", AssetClass="/Script/Engine.Blueprint")
 Windows.Editor:TaskBrowser:DefaultServerName:0=
 Windows.Editor:TaskBrowser:DefaultServerPort:0=80
 Windows.Editor:TaskBrowser:DefaultProjectName:0=UE4
@@ -3444,17 +3454,17 @@ TextureFormat:AutoETC1a:VersionNumber=0
 TextureFormat:ETC2_RGB:VersionNumber=0
 TextureFormat:ETC2_RGBA:VersionNumber=0
 TextureFormat:AutoETC2:VersionNumber=0
-ShaderFormat:GLSL_150:VersionNumber=16960
-ShaderFormat:GLSL_430:VersionNumber=16961
-ShaderFormat:GLSL_ES2:VersionNumber=16960
-ShaderFormat:GLSL_ES2_WEBGL:VersionNumber=16960
-ShaderFormat:GLSL_150_ES2:VersionNumber=16960
-ShaderFormat:GLSL_150_ES31:VersionNumber=16960
-ShaderFormat:GLSL_ES2_IOS:VersionNumber=16960
-ShaderFormat:GLSL_310_ES_EXT:VersionNumber=16960
-ShaderFormat:GLSL_150_ES2_NOUB:VersionNumber=16960
-ShaderFormat:GLSL_ES3_1_ANDROID:VersionNumber=16960
-Release:9C54D522A8264FBE9421074661B482D0=12
+ShaderFormat:GLSL_150:VersionNumber=17217
+ShaderFormat:GLSL_430:VersionNumber=17217
+ShaderFormat:GLSL_ES2:VersionNumber=17217
+ShaderFormat:GLSL_ES2_WEBGL:VersionNumber=17217
+ShaderFormat:GLSL_150_ES2:VersionNumber=17217
+ShaderFormat:GLSL_150_ES31:VersionNumber=17217
+ShaderFormat:GLSL_ES2_IOS:VersionNumber=17217
+ShaderFormat:GLSL_310_ES_EXT:VersionNumber=17217
+ShaderFormat:GLSL_150_ES2_NOUB:VersionNumber=17217
+ShaderFormat:GLSL_ES3_1_ANDROID:VersionNumber=17217
+Release:9C54D522A8264FBE9421074661B482D0=13
 Dev-Blueprints:B0D832E41F894F0DACCF7EB736FD4AA2=10
 Dev-Build:E1C64328A22C4D53A36C8E866417BD8C=0
 Dev-Core:375EC13C06E448FBB50084F0262A717E=2
@@ -3474,7 +3484,7 @@ Dev-AnimPhys:29E575DDE0A346279D10D276232CDCEA=16
 Dev-ReflectionCapture:6B266CEC1EC74B8FA30BE4D90942FC07=1
 Dev-Automation:0DF73D61A23F47EAB72789E90C41499A=1
 ShaderCacheVersion:B954F018C9624DD6A74E79B18EA113C2=16
-ShaderCacheGameVersion:03D4EB48B50B4CC3A598DE415C6CC993=3898826
+ShaderCacheGameVersion:03D4EB48B50B4CC3A598DE415C6CC993=3944462
 AssetRegistry:717F9EE7E9B0493A88B391321B388107=5
 FileCacheVersion:8E7DDCB380DA47BB9FD346A293984DF6=1
 PoseDriverVer:AFE086913A0D4952B673673B7CF22D1E=2
@@ -3489,7 +3499,7 @@ RecomputeTangentCustomVer:5579F886933A4C1F83BA087B6361B92F=1
 OverlappingVerticeDetectionVer:612FBE52DA53400B910D4F919FB1857C=1
 VisualLogger:A4237A36CAEA41C98FA218F858681BF3=4
 PackageFileVersions:516=0
-MaterialShaderMapDDCVersion=E364A8CEB07D4CA78F49A40F1E532649
+MaterialShaderMapDDCVersion=00C21D1DE462418ABCDF262EC737C276
 GlobalDDCVersion=3E5171BCD5265736B84BA594D4D08444
 
 
