@@ -1,0 +1,385 @@
+TVOSPlatformFactory.RegisterBuildPlatforms: UnrealBuildTool.IOSPlatformSDK has no valid SDK
+AndroidPlatformFactory.RegisterBuildPlatforms: UnrealBuildTool.AndroidPlatformSDK using manually installed SDK -22
+HoloLensPlatformFactory.RegisterBuildPlatforms: UnrealBuildTool.HoloLensPlatformSDK using manually installed SDK
+IOSPlatformFactory.RegisterBuildPlatforms: UnrealBuildTool.IOSPlatformSDK has no valid SDK
+HTML5PlatformFactory.RegisterBuildPlatforms: UnrealBuildTool.HTML5PlatformSDK using manually installed SDK
+LinuxPlatformFactory.RegisterBuildPlatforms: UnrealBuildTool.LinuxPlatformSDK has no valid SDK
+LuminPlatformSDK.HasAnySDK: *** Unable to determine MLSDK location ***
+LuminPlatformSDK.HasAnySDK: *** Unable to determine MLSDK location ***
+LuminPlatformFactory.RegisterBuildPlatforms: UnrealBuildTool.LuminPlatformSDK has no valid SDK
+WindowsPlatformFactory.RegisterBuildPlatforms: UnrealBuildTool.WindowsPlatformSDK using manually installed SDK
+ProjectFileGenerator.GenerateProjectFiles: Discovering modules, targets and source code for project...
+WindowsPlatform.FindVSInstallDirs: Found Visual Studio installation: C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview (Product=Microsoft.VisualStudio.Product.Community, Version=16.1.28902.138, Sort=65536)
+WindowsPlatform.FindToolChainDirs: Found Visual Studio toolchain: C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.21.27619 (Version=14.21.27619)
+DynamicCompilation.RequiresCompilation: Compiling C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\BuildRules\UE4Rules.dll: UnrealBuildTool.exe is newer
+DynamicCompilation.RequiresCompilation: Compiling C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\BuildRules\UE4ProgramRules.dll: UnrealBuildTool.exe is newer
+WindowsPlatform.EnumerateSdkRootDirs: Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (1)
+WindowsPlatform.EnumerateSdkRootDirs: Found Windows 10 SDK root at C:\Program Files (x86)\Windows Kits\10 (2)
+WindowsPlatform.UpdateCachedWindowsSdks: Found Windows 10 SDK version 10.0.17763.0 at C:\Program Files (x86)\Windows Kits\10
+WindowsPlatform.UpdateCachedWindowsSdks: Found Universal CRT version 10.0.17763.0 at C:\Program Files (x86)\Windows Kits\10
+DynamicCompilation.RequiresCompilation: Compiling C:\Program Files\Epic Games\UE_4.23\Enterprise\Intermediate\Build\BuildRules\StudioRules.dll: Assembly does not exist
+DynamicCompilation.RequiresCompilation: Compiling C:\Program Files\Epic Games\UE_4.23\Enterprise\Intermediate\Build\BuildRules\StudioProgramRules.dll: Assembly does not exist
+DynamicCompilation.RequiresCompilation: Compiling D:\GitHub\Blueprint-Recipe-Repository\DeathTransition\Intermediate\Build\BuildRules\DeathTransitionModuleRules.dll: Assembly does not exist
+Log.PushStatus: Binding IntelliSense data...
+ProgressWriter.Write: @progress 'Binding IntelliSense data...' 0%
+UEBuildTarget.AddPlugin: Enabling plugin 'Paper2D' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AISupport' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'LightPropagationVolume' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ActorLayerUtilities' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AnimationSharing' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'SignificanceManager' (referenced via default plugins -> AnimationSharing.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'CLionSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'CodeLiteSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'GitSourceControl' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'KDevelopSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'NullSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'PerforceSourceControl' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'SubversionSourceControl' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'UObjectPlugin' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'VisualStudioCodeSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'VisualStudioSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'XCodeSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AssetManagerEditor' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'CryptoKeys' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'CurveEditorTools' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'DataValidation' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'FacialAnimation' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'GameplayTagsEditor' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MacGraphicsSwitching' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MaterialAnalyzer' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MobileLauncherProfileWizard' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'PluginBrowser' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'SpeedTreeImporter' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'DatasmithContent' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'VariantManagerContent' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AlembicImporter' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'GeometryCache' (referenced via default plugins -> AlembicImporter.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'AutomationUtils' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ScreenshotTools' (referenced via default plugins -> AutomationUtils.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'BackChannel' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'CharacterAI' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'HTML5Networking' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'PlatformCrypto' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ProxyLODPlugin' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'SkeletalReduction' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MagicLeapMedia' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MagicLeap' (referenced via default plugins -> MagicLeapMedia.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'ProceduralMeshComponent' (referenced via default plugins -> MagicLeapMedia.uplugin -> MagicLeap.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'AndroidMedia' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AvfMedia' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ImgMedia' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MediaCompositing' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MediaPlayerEditor' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'WmfMedia' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'TcpMessaging' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'UdpMessaging' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ActorSequence' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'LevelSequenceEditor' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MatineeToLevelSequence' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'NetcodeUnitTest' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'NUTUnrealEngine4' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemGooglePlay' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystem' (referenced via default plugins -> OnlineSubsystemGooglePlay.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'AndroidPermission' (referenced via default plugins -> OnlineSubsystemGooglePlay.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemIOS' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemNull' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemUtils' (referenced via default plugins -> OnlineSubsystemNull.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'LauncherChunkInstaller' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AndroidDeviceProfileSelector' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AndroidMoviePlayer' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AppleImageUtils' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AppleMoviePlayer' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ArchVisCharacter' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AudioCapture' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'CableComponent' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'CustomMeshComponent' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'EditableMesh' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ExampleDeviceProfileSelector' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'GoogleCloudMessaging' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'IOSDeviceProfileSelector' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'LinuxDeviceProfileSelector' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'LocationServicesBPLibrary' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MobilePatchingUtils' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'OculusVR' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'PhysXVehicles' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'RuntimePhysXCooking' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'SteamVR' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'WebMMoviePlayer' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'WebMMedia' (referenced via default plugins -> WebMMoviePlayer.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'WindowsMoviePlayer' (referenced via default plugins)
+VCToolChain..ctor: Compiler: C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.21.27619\bin\HostX64\x64\cl.exe
+VCToolChain..ctor: Linker: C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.21.27619\bin\HostX64\x64\link.exe
+VCToolChain..ctor: Library Manager: C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.21.27619\bin\HostX64\x64\lib.exe
+VCToolChain..ctor: Resource Compiler: C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\x64\rc.exe
+ProgressWriter.Write: @progress 'Binding IntelliSense data...' 33%
+UEBuildTarget.AddPlugin: Enabling plugin 'DatasmithC4DImporter' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'DatasmithImporter' (referenced via default plugins -> DatasmithC4DImporter.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'DatasmithContent' (referenced via default plugins -> DatasmithC4DImporter.uplugin -> DatasmithImporter.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'EditorScriptingUtilities' (referenced via default plugins -> DatasmithC4DImporter.uplugin -> DatasmithImporter.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'DataPrepEditor' (referenced via default plugins -> DatasmithC4DImporter.uplugin -> DatasmithImporter.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'DatasmithCADImporter' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'DatasmithFBXImporter' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'VariantManager' (referenced via default plugins -> DatasmithFBXImporter.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'VariantManagerContent' (referenced via default plugins -> DatasmithFBXImporter.uplugin -> VariantManager.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'DatasmithGLTFImporter' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'GLTFImporter' (referenced via default plugins -> DatasmithGLTFImporter.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'DatasmithIFCImporter' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MDLImporter' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'StaticMeshEditorExtension' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'EditableMesh' (referenced via default plugins -> StaticMeshEditorExtension.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'MeshEditor' (referenced via default plugins -> StaticMeshEditorExtension.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'BlastPlugin' (referenced via default plugins -> StaticMeshEditorExtension.uplugin -> MeshEditor.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'GeometryCollectionPlugin' (referenced via default plugins -> StaticMeshEditorExtension.uplugin -> MeshEditor.uplugin -> BlastPlugin.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'ProceduralMeshComponent' (referenced via default plugins -> StaticMeshEditorExtension.uplugin -> MeshEditor.uplugin -> BlastPlugin.uplugin -> GeometryCollectionPlugin.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'ChaosSolverPlugin' (referenced via default plugins -> StaticMeshEditorExtension.uplugin -> MeshEditor.uplugin -> BlastPlugin.uplugin -> GeometryCollectionPlugin.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'ProxyLODPlugin' (referenced via default plugins -> StaticMeshEditorExtension.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'Paper2D' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AISupport' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'LightPropagationVolume' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ActorLayerUtilities' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AnimationSharing' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'SignificanceManager' (referenced via default plugins -> AnimationSharing.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'CLionSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'CodeLiteSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'GitSourceControl' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'KDevelopSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'NullSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'PerforceSourceControl' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'SubversionSourceControl' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'UObjectPlugin' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'VisualStudioCodeSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'VisualStudioSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'XCodeSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AssetManagerEditor' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'CryptoKeys' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'CurveEditorTools' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'DataValidation' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'FacialAnimation' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'GameplayTagsEditor' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MacGraphicsSwitching' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MaterialAnalyzer' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MobileLauncherProfileWizard' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'PluginBrowser' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'SpeedTreeImporter' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AlembicImporter' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'GeometryCache' (referenced via default plugins -> AlembicImporter.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'AutomationUtils' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ScreenshotTools' (referenced via default plugins -> AutomationUtils.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'BackChannel' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'CharacterAI' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'HTML5Networking' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'PlatformCrypto' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'SkeletalReduction' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MagicLeapMedia' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MagicLeap' (referenced via default plugins -> MagicLeapMedia.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'AndroidMedia' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AvfMedia' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ImgMedia' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MediaCompositing' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MediaPlayerEditor' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'WmfMedia' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'TcpMessaging' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'UdpMessaging' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ActorSequence' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'LevelSequenceEditor' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MatineeToLevelSequence' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'NetcodeUnitTest' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'NUTUnrealEngine4' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemGooglePlay' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystem' (referenced via default plugins -> OnlineSubsystemGooglePlay.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'AndroidPermission' (referenced via default plugins -> OnlineSubsystemGooglePlay.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemIOS' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemNull' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemUtils' (referenced via default plugins -> OnlineSubsystemNull.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'LauncherChunkInstaller' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AndroidDeviceProfileSelector' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AndroidMoviePlayer' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AppleImageUtils' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AppleMoviePlayer' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ArchVisCharacter' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AudioCapture' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'CableComponent' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'CustomMeshComponent' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ExampleDeviceProfileSelector' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'GoogleCloudMessaging' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'IOSDeviceProfileSelector' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'LinuxDeviceProfileSelector' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'LocationServicesBPLibrary' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MobilePatchingUtils' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'OculusVR' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'PhysXVehicles' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'RuntimePhysXCooking' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'SteamVR' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'WebMMoviePlayer' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'WebMMedia' (referenced via default plugins -> WebMMoviePlayer.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'WindowsMoviePlayer' (referenced via default plugins)
+VCToolChain..ctor: Compiler: C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.21.27619\bin\HostX64\x64\cl.exe
+VCToolChain..ctor: Linker: C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.21.27619\bin\HostX64\x64\link.exe
+VCToolChain..ctor: Library Manager: C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.21.27619\bin\HostX64\x64\lib.exe
+VCToolChain..ctor: Resource Compiler: C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\x64\rc.exe
+ProgressWriter.Write: @progress 'Binding IntelliSense data...' 67%
+UEBuildTarget.AddPlugin: Enabling plugin 'DatasmithC4DImporter' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'DatasmithImporter' (referenced via default plugins -> DatasmithC4DImporter.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'DatasmithContent' (referenced via default plugins -> DatasmithC4DImporter.uplugin -> DatasmithImporter.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'EditorScriptingUtilities' (referenced via default plugins -> DatasmithC4DImporter.uplugin -> DatasmithImporter.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'DataPrepEditor' (referenced via default plugins -> DatasmithC4DImporter.uplugin -> DatasmithImporter.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'DatasmithCADImporter' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'DatasmithFBXImporter' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'VariantManager' (referenced via default plugins -> DatasmithFBXImporter.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'VariantManagerContent' (referenced via default plugins -> DatasmithFBXImporter.uplugin -> VariantManager.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'DatasmithGLTFImporter' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'GLTFImporter' (referenced via default plugins -> DatasmithGLTFImporter.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'DatasmithIFCImporter' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MDLImporter' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'StaticMeshEditorExtension' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'EditableMesh' (referenced via default plugins -> StaticMeshEditorExtension.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'MeshEditor' (referenced via default plugins -> StaticMeshEditorExtension.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'BlastPlugin' (referenced via default plugins -> StaticMeshEditorExtension.uplugin -> MeshEditor.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'GeometryCollectionPlugin' (referenced via default plugins -> StaticMeshEditorExtension.uplugin -> MeshEditor.uplugin -> BlastPlugin.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'ProceduralMeshComponent' (referenced via default plugins -> StaticMeshEditorExtension.uplugin -> MeshEditor.uplugin -> BlastPlugin.uplugin -> GeometryCollectionPlugin.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'ChaosSolverPlugin' (referenced via default plugins -> StaticMeshEditorExtension.uplugin -> MeshEditor.uplugin -> BlastPlugin.uplugin -> GeometryCollectionPlugin.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'ProxyLODPlugin' (referenced via default plugins -> StaticMeshEditorExtension.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'Paper2D' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AISupport' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'LightPropagationVolume' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ActorLayerUtilities' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AnimationSharing' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'SignificanceManager' (referenced via default plugins -> AnimationSharing.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'CLionSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'CodeLiteSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'GitSourceControl' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'KDevelopSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'NullSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'PerforceSourceControl' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'SubversionSourceControl' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'UObjectPlugin' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'VisualStudioCodeSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'VisualStudioSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'XCodeSourceCodeAccess' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AssetManagerEditor' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'CryptoKeys' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'CurveEditorTools' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'DataValidation' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'FacialAnimation' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'GameplayTagsEditor' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MacGraphicsSwitching' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MaterialAnalyzer' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MobileLauncherProfileWizard' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'PluginBrowser' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'SpeedTreeImporter' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AlembicImporter' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'GeometryCache' (referenced via default plugins -> AlembicImporter.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'AutomationUtils' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ScreenshotTools' (referenced via default plugins -> AutomationUtils.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'BackChannel' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'CharacterAI' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'HTML5Networking' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'PlatformCrypto' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'SkeletalReduction' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MagicLeapMedia' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MagicLeap' (referenced via default plugins -> MagicLeapMedia.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'AndroidMedia' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AvfMedia' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ImgMedia' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MediaCompositing' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MediaPlayerEditor' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'WmfMedia' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'TcpMessaging' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'UdpMessaging' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ActorSequence' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'LevelSequenceEditor' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MatineeToLevelSequence' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'NetcodeUnitTest' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'NUTUnrealEngine4' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemGooglePlay' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystem' (referenced via default plugins -> OnlineSubsystemGooglePlay.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'AndroidPermission' (referenced via default plugins -> OnlineSubsystemGooglePlay.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemIOS' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemNull' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'OnlineSubsystemUtils' (referenced via default plugins -> OnlineSubsystemNull.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'LauncherChunkInstaller' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AndroidDeviceProfileSelector' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AndroidMoviePlayer' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AppleImageUtils' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AppleMoviePlayer' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ArchVisCharacter' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'AudioCapture' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'CableComponent' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'CustomMeshComponent' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'ExampleDeviceProfileSelector' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'GoogleCloudMessaging' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'IOSDeviceProfileSelector' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'LinuxDeviceProfileSelector' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'LocationServicesBPLibrary' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'MobilePatchingUtils' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'OculusVR' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'PhysXVehicles' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'RuntimePhysXCooking' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'SteamVR' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'WebMMoviePlayer' (referenced via default plugins)
+UEBuildTarget.AddPlugin: Enabling plugin 'WebMMedia' (referenced via default plugins -> WebMMoviePlayer.uplugin)
+UEBuildTarget.AddPlugin: Enabling plugin 'WindowsMoviePlayer' (referenced via default plugins)
+VCToolChain..ctor: Compiler: C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.21.27619\bin\HostX64\x64\cl.exe
+VCToolChain..ctor: Linker: C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.21.27619\bin\HostX64\x64\link.exe
+VCToolChain..ctor: Library Manager: C:\Program Files (x86)\Microsoft Visual Studio\2019\Preview\VC\Tools\MSVC\14.21.27619\bin\HostX64\x64\lib.exe
+VCToolChain..ctor: Resource Compiler: C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\x64\rc.exe
+ProgressWriter.Write: @progress 'Binding IntelliSense data...' 100%
+Log.PushStatus: Writing project files...
+ProgressWriter.Write: @progress 'Writing project files...' 0%
+ProgressWriter.Write: @progress 'Writing project files...' 25%
+ProgressWriter.Write: @progress 'Writing project files...' 50%
+ProgressWriter.Write: @progress 'Writing project files...' 75%
+ProgressWriter.Write: @progress 'Writing project files...' 100%
+Timeline.Print: Timeline:
+Timeline.Print: 
+Timeline.Print: [ 0.000]
+Timeline.Print: [ 0.000](+0.181) <unknown>
+Timeline.Print: [ 0.181](+0.716) XmlConfig.ReadConfigFiles()
+Timeline.Print: [ 0.898](+0.000) SingleInstanceMutex.Acquire()
+Timeline.Print: [ 0.898](+0.842) UEBuildPlatform.RegisterPlatforms()
+Timeline.Print:   0.902          [ 0.003](+0.487) Initializing InstalledPlatformInfo
+Timeline.Print:   1.389          [ 0.490](+0.000) Querying types
+Timeline.Print:   1.404          [ 0.505](+0.012) MacPlatformFactory
+Timeline.Print:   1.416          [ 0.517](+0.223) TVOSPlatformFactory
+Timeline.Print:   1.639          [ 0.740](+0.008) AndroidPlatformFactory
+Timeline.Print:   1.648          [ 0.749](+0.033) HoloLensPlatformFactory
+Timeline.Print:   1.681          [ 0.782](+0.019) IOSPlatformFactory
+Timeline.Print:   1.700          [ 0.802](+0.014) HTML5PlatformFactory
+Timeline.Print:   1.715          [ 0.816](+0.007) LinuxPlatformFactory
+Timeline.Print:   1.722          [ 0.823](+0.017) LuminPlatformFactory
+Timeline.Print:   1.739          [ 0.841](+0.001) WindowsPlatformFactory
+Timeline.Print: [ 1.741](+1.827) <unknown>
+Timeline.Print: [ 3.568](+0.006) Finding engine modules
+Timeline.Print: [ 3.575](+0.007) Finding plugin modules
+Timeline.Print: [ 3.603](+12.849) Compiling rules assembly (UE4Rules.dll)
+Timeline.Print: [16.452](+0.039) <unknown>
+Timeline.Print: [16.492](+0.000) Finding program modules
+Timeline.Print: [16.492](+0.000) Finding program targets
+Timeline.Print: [16.493](+0.289) Compiling rules assembly (UE4ProgramRules.dll)
+Timeline.Print: [16.782](+0.151) <unknown>
+Timeline.Print: [16.934](+0.000) Finding engine modules
+Timeline.Print: [16.935](+0.000) Finding plugin modules
+Timeline.Print: [16.935](+0.447) Compiling rules assembly (StudioRules.dll)
+Timeline.Print: [17.385](+0.000) Finding program modules
+Timeline.Print: [17.385](+0.000) Finding program targets
+Timeline.Print: [17.386](+0.208) Compiling rules assembly (StudioProgramRules.dll)
+Timeline.Print: [17.607](+0.287) Compiling rules assembly (DeathTransitionModuleRules.dll)
+Timeline.Print: [17.895](+1.831) <unknown>
+Timeline.Print: [19.726](+0.001) RulesCompiler.CreateTargetRulesAssembly()
+Timeline.Print: [19.728](+0.002) RulesAssembly.CreateTargetRules()
+Timeline.Print: [19.731](+0.031) <unknown>
+Timeline.Print: [19.763](+0.012) UEBuildTarget constructor
+Timeline.Print: [19.776](+3.058) UEBuildTarget.PreBuildSetup()
+Timeline.Print: [22.834](+1.755) <unknown>
+Timeline.Print: [24.589](+0.000) RulesCompiler.CreateTargetRulesAssembly()
+Timeline.Print: [24.590](+0.002) RulesAssembly.CreateTargetRules()
+Timeline.Print: [24.595](+0.000) UEBuildTarget constructor
+Timeline.Print: [24.595](+0.324) UEBuildTarget.PreBuildSetup()
+Timeline.Print: [24.920](+0.047) <unknown>
+Timeline.Print: [24.968](+0.000) RulesCompiler.CreateTargetRulesAssembly()
+Timeline.Print: [24.968](+0.003) RulesAssembly.CreateTargetRules()
+Timeline.Print: [24.979](+0.000) UEBuildTarget constructor
+Timeline.Print: [24.979](+0.281) UEBuildTarget.PreBuildSetup()
+Timeline.Print: [25.260](+4.973) <unknown>
+Timeline.Print: [30.233](+0.000) FileMetadataPrefetch.Stop()
+Timeline.Print: [30.238]
